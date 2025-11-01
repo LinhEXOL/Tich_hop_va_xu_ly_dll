@@ -1,0 +1,2457 @@
+[
+  {
+    "stt": 1,
+    "ten": "Thực tập sinh xử lý dữ liệu",
+    "link": "https://vn.joboko.com/viec-lam-thuc-tap-sinh-xu-ly-du-lieu-xvi5848377"
+  },
+  {
+    "stt": 2,
+    "ten": "[Hà Nội] Senior Unity Developer",
+    "link": "https://vn.joboko.com/viec-lam-senior-unity-developer-xvi6109026"
+  },
+  {
+    "stt": 3,
+    "ten": "Quản Lý Dự Án Phần Mềm Tiếng Nhật N2 - Có thể làm việc Remote",
+    "link": "https://vn.joboko.com/viec-lam-quan-ly-du-an-yeu-cau-tieng-nhat-n2-xvi6104027"
+  },
+  {
+    "stt": 4,
+    "ten": "Giáo Viên Tiếng Anh Online - Thu Nhập Upto 20 Triệu",
+    "link": "https://vn.joboko.com/viec-lam-giao-vien-tieng-anh-online-xvi6041713"
+  },
+  {
+    "stt": 5,
+    "ten": "Giáo Viên Tiếng Anh Online - Thu Nhập Upto 20 Triệu",
+    "link": "https://vn.joboko.com/viec-lam-giao-vien-tieng-anh-online-thu-nhap-upto-20-trieu-xvi6117106"
+  },
+  {
+    "stt": 6,
+    "ten": "Tuyển PHP Developer Làm việc tại nhà",
+    "link": "https://vn.joboko.com/viec-lam-tuyen-php-developer-lam-viec-tai-nha-xvi6116288"
+  },
+  {
+    "stt": 7,
+    "ten": "Project Leader/ Quản lý dự án",
+    "link": "https://vn.joboko.com/viec-lam-project-leader-quan-ly-du-an-xvi5800820"
+  },
+  {
+    "stt": 8,
+    "ten": "Software Quality Support Intern",
+    "link": "https://vn.joboko.com/viec-lam-software-quality-support-intern-xvi6108723"
+  },
+  {
+    "stt": 9,
+    "ten": "Thực Tập Sinh IT Tiếng Nhật N3",
+    "link": "https://vn.joboko.com/viec-lam-thuc-tap-sinh-it-tieng-nhat-n3-xvi6108747"
+  },
+  {
+    "stt": 10,
+    "ten": "BACKEND - GO - MIDDLE",
+    "link": "https://vn.joboko.com/viec-lam-backend-go-middle-xvi6095568"
+  },
+  {
+    "stt": 11,
+    "ten": "Lập trình viên .Net C#",
+    "link": "https://vn.joboko.com/viec-lam-lap-trinh-vien-net-c-xvi6112144"
+  },
+  {
+    "stt": 12,
+    "ten": "Kỹ sư Phát triển Phần mềm Nhúng Embedded Engineer",
+    "link": "https://vn.joboko.com/viec-lam-ky-su-phat-trien-phan-mem-nhung-embedded-engineer-xvi6110200"
+  },
+  {
+    "stt": 13,
+    "ten": "Project Manager PM",
+    "link": "https://vn.joboko.com/viec-lam-project-manager-pm-xvi6112261"
+  },
+  {
+    "stt": 14,
+    "ten": "TUYỂN DỤNG LẬP TRÌNH VIÊN MOBILE YÊU CẦU PYTHON/ DJANGO",
+    "link": "https://vn.joboko.com/viec-lam-tuyen-dung-lap-trinh-vien-mobile-yeu-cau-python-django-xvi6110901"
+  },
+  {
+    "stt": 15,
+    "ten": "Nhân viên phân tích nghiệp vụ BA",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-phan-tich-nghiep-vu-ba-xvi6098110"
+  },
+  {
+    "stt": 16,
+    "ten": "Chuyên Viên Quản Trị Dự Án",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-vien-quan-tri-du-an-xvi6066021"
+  },
+  {
+    "stt": 17,
+    "ten": "KỸ THUẬT VIÊN BẢO HÀNH MÁY TÍNH",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-ky-thuat-sua-chua-bao-hanh-may-tinh-xvi6069606"
+  },
+  {
+    "stt": 18,
+    "ten": "Nhân Viên Bán Hàng Kỹ Thuật Máy Tính",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-ban-hang-ky-thuat-may-tinh-xvi6067495"
+  },
+  {
+    "stt": 19,
+    "ten": "Process Quality Assurance 3-8 Years Experience",
+    "link": "https://vn.joboko.com/viec-lam-process-quality-assurance-3-8-years-experience-xvi6066510"
+  },
+  {
+    "stt": 20,
+    "ten": "Intern/Junior Security Engineer",
+    "link": "https://vn.joboko.com/viec-lam-intern-junior-security-engineer-xvi6066164"
+  },
+  {
+    "stt": 21,
+    "ten": "Senior Developer",
+    "link": "https://vn.joboko.com/viec-lam-senior-developer-xvi5984526"
+  },
+  {
+    "stt": 22,
+    "ten": "Lập Trình Viên/Software Engineering .NET",
+    "link": "https://vn.joboko.com/viec-lam-lap-trinh-vien-software-engineering-net-xvi6098122"
+  },
+  {
+    "stt": 23,
+    "ten": "Business Analyst BA/Test - Team Leader",
+    "link": "https://vn.joboko.com/viec-lam-business-analyst-ba-test-team-leader-xvi5952516"
+  },
+  {
+    "stt": 24,
+    "ten": "Backend Developer Nodejs",
+    "link": "https://vn.joboko.com/viec-lam-backend-developer-nodejs-xvi6064634"
+  },
+  {
+    "stt": 25,
+    "ten": "Chuyên viên Phân tích nghiệp vụ BA",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-vien-phan-tich-nghiep-vu-ba-xvi6080708"
+  },
+  {
+    "stt": 26,
+    "ten": "Intern QA engineer",
+    "link": "https://vn.joboko.com/viec-lam-intern-qa-engineer-xvi6066152"
+  },
+  {
+    "stt": 27,
+    "ten": "Senior Devops Engineer",
+    "link": "https://vn.joboko.com/viec-lam-senior-devops-engineer-xvi6112131"
+  },
+  {
+    "stt": 28,
+    "ten": "Nhân viên Kinh doanh Phần mềm",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-kinh-doanh-phan-mem-xvi5844986"
+  },
+  {
+    "stt": 29,
+    "ten": "Lập trình Backend Java",
+    "link": "https://vn.joboko.com/viec-lam-lap-trinh-backend-java-xvi6114915"
+  },
+  {
+    "stt": 30,
+    "ten": "Nhân viên QA",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-qa-xvi6104534"
+  },
+  {
+    "stt": 31,
+    "ten": "Chuyên viên kiểm thử phần mềm - manual test",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-vien-kiem-thu-phan-mem-manual-test-xvi6114931"
+  },
+  {
+    "stt": 32,
+    "ten": "Tuyển Full-Stack Developer",
+    "link": "https://vn.joboko.com/viec-lam-tuyen-full-stack-developer-xvi6062722"
+  },
+  {
+    "stt": 33,
+    "ten": "Nhân Viên Kinh Doanh / Cross Selling - Giải Pháp Kế Toán/Hóa Đơn Điện Tử/Chữ Ký Số MISA Data Có Sẵn",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-kinh-doanh-cross-selling-giai-phap-ke-toan-hoa-don-dien-tu-chu-ky-so-misa-data-co-san-xvi6062214"
+  },
+  {
+    "stt": 34,
+    "ten": "iOS Developer",
+    "link": "https://vn.joboko.com/viec-lam-ios-developer-xvi6060200"
+  },
+  {
+    "stt": 35,
+    "ten": "USER ORIENTED TESTERS",
+    "link": "https://vn.joboko.com/viec-lam-user-oriented-testers-xvi6104349"
+  },
+  {
+    "stt": 36,
+    "ten": "Business Assurance",
+    "link": "https://vn.joboko.com/viec-lam-business-assurance-xvi6073293"
+  },
+  {
+    "stt": 37,
+    "ten": "Nhân Viên Kinh Doanh / Telesales - Tư Vấn Phần Mềm Kế Toán MISA Không Yêu Cầu Kinh Nghiệm, Data Có Sẵn",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-kinh-doanh-telesales-tu-van-phan-mem-ke-toan-misa-khong-yeu-cau-kinh-nghiem-data-co-san-xvi6062202"
+  },
+  {
+    "stt": 38,
+    "ten": "Android Developer - Senior",
+    "link": "https://vn.joboko.com/viec-lam-android-developer-senior-xvi6060111"
+  },
+  {
+    "stt": 39,
+    "ten": "Business Analyst",
+    "link": "https://vn.joboko.com/viec-lam-business-analyst-xvi6087134"
+  },
+  {
+    "stt": 40,
+    "ten": "Manual Tester - QC",
+    "link": "https://vn.joboko.com/viec-lam-manual-tester-qc-xvi6115635"
+  },
+  {
+    "stt": 41,
+    "ten": "Lập trình viên Java",
+    "link": "https://vn.joboko.com/viec-lam-lap-trinh-vien-java-xvi6064880"
+  },
+  {
+    "stt": 42,
+    "ten": "TTS KĨ SƯ PHẦN MỀM",
+    "link": "https://vn.joboko.com/viec-lam-tts-ki-su-phan-mem-xvi6112138"
+  },
+  {
+    "stt": 43,
+    "ten": "Nhân Viên IT Phát Triển Phần Mềm",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-it-phat-trien-phan-mem-xvi6112151"
+  },
+  {
+    "stt": 44,
+    "ten": "Business Analyst",
+    "link": "https://vn.joboko.com/viec-lam-business-analyst-xvi6087148"
+  },
+  {
+    "stt": 45,
+    "ten": "Nhân viên Kinh doanh - Không yêu cầu kinh nghiệm",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-kinh-doanh-khong-yeu-cau-kinh-nghiem-xvi6066186"
+  },
+  {
+    "stt": 46,
+    "ten": "AI Engineer",
+    "link": "https://vn.joboko.com/viec-lam-ai-engineer-xvi5987688"
+  },
+  {
+    "stt": 47,
+    "ten": "Backend Developer",
+    "link": "https://vn.joboko.com/viec-lam-backend-developer-xvi6059952"
+  },
+  {
+    "stt": 48,
+    "ten": "TTS/ Học việc Back-end Developer",
+    "link": "https://vn.joboko.com/viec-lam-tts-hoc-viec-back-end-developer-xvi6085178"
+  },
+  {
+    "stt": 49,
+    "ten": "Nhân viên kiếm thử phần mềm QC/Tester",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-kiem-thu-phan-mem-qc-tester-xvi6110002"
+  },
+  {
+    "stt": 50,
+    "ten": "[HN] Lập trình viên Java",
+    "link": "https://vn.joboko.com/viec-lam-hn-lap-trinh-vien-java-xvi6109927"
+  },
+  {
+    "stt": 51,
+    "ten": "Nhân viên IT",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-it-xvi6094259"
+  },
+  {
+    "stt": 52,
+    "ten": "TTS/ Học việc Web Application Developer",
+    "link": "https://vn.joboko.com/viec-lam-tts-hoc-viec-web-application-developer-xvi6085203"
+  },
+  {
+    "stt": 53,
+    "ten": "Nhân viên kỹ thuật sản xuất",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-ky-thuat-san-xuat-xvi6073372"
+  },
+  {
+    "stt": 54,
+    "ten": "TUYỂN DỤNG NHÂN VIÊN KINH DOANH PHẦM MỀM MARKETING",
+    "link": "https://vn.joboko.com/viec-lam-tuyen-dung-nhan-vien-kinh-doanh-pham-mem-marketing-xvi6110422"
+  },
+  {
+    "stt": 55,
+    "ten": "Data Analyst",
+    "link": "https://vn.joboko.com/viec-lam-data-analyst-xvi6095231"
+  },
+  {
+    "stt": 56,
+    "ten": "Thực Tập Sinh Data Science",
+    "link": "https://vn.joboko.com/viec-lam-thuc-tap-sinh-data-science-xvi6084734"
+  },
+  {
+    "stt": 57,
+    "ten": "Thực tập sinh BA_Tháng 10",
+    "link": "https://vn.joboko.com/viec-lam-thuc-tap-sinh-ba-thang-10-xvi6091621"
+  },
+  {
+    "stt": 58,
+    "ten": "Product Owner Mobile App",
+    "link": "https://vn.joboko.com/viec-lam-product-owner-mobile-app-xvi6091620"
+  },
+  {
+    "stt": 59,
+    "ten": "PHP Laravel, MySQL - Ưu tiên hiểu sâu về Technical Web Seo",
+    "link": "https://vn.joboko.com/viec-lam-php-laravel-mysql-uu-tien-hieu-sau-ve-technical-web-seo-xvi5846660"
+  },
+  {
+    "stt": 60,
+    "ten": "Nhân viên Phân tích nghiệp vụ_BA",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-phan-tich-nghiep-vu-ba-xvi6090764"
+  },
+  {
+    "stt": 61,
+    "ten": "Backend NodeJS Developer",
+    "link": "https://vn.joboko.com/viec-lam-backend-nodejs-developer-xvi6068562"
+  },
+  {
+    "stt": 62,
+    "ten": "Làm việc tại nhà Kỹ sư Phần mềm JAVA/Android",
+    "link": "https://vn.joboko.com/viec-lam-lam-viec-tai-nha-ky-su-phan-mem-java-android-xvi6066281"
+  },
+  {
+    "stt": 63,
+    "ten": "Nhân Viên IT Helpdesk",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-it-helpdesk-xvi6059531"
+  },
+  {
+    "stt": 64,
+    "ten": "Senior Fullstack Developer / Tech Lead",
+    "link": "https://vn.joboko.com/viec-lam-senior-fullstack-developer-tech-lead-xvi6113077"
+  },
+  {
+    "stt": 65,
+    "ten": "Intern Data Engineer",
+    "link": "https://vn.joboko.com/viec-lam-intern-data-engineer-xvi6107036"
+  },
+  {
+    "stt": 66,
+    "ten": "Product Owner Dự Án AI PO",
+    "link": "https://vn.joboko.com/viec-lam-product-owner-du-an-ai-po-xvi6103165"
+  },
+  {
+    "stt": 67,
+    "ten": "VỊ TRÍ WEB SYSTEM ENGINEER",
+    "link": "https://vn.joboko.com/viec-lam-vi-tri-web-system-engineer-xvi6100560"
+  },
+  {
+    "stt": 68,
+    "ten": "Tester tiếng Nhật",
+    "link": "https://vn.joboko.com/viec-lam-tester-tieng-nhat-xvi6103152"
+  },
+  {
+    "stt": 69,
+    "ten": "Technical Support Leader",
+    "link": "https://vn.joboko.com/viec-lam-technical-support-leader-xvi6101237"
+  },
+  {
+    "stt": 70,
+    "ten": "Senior Tester - TA171",
+    "link": "https://vn.joboko.com/viec-lam-senior-tester-ta171-xvi6116691"
+  },
+  {
+    "stt": 71,
+    "ten": "PRODUCT INSIGHT ANALYST POD/ECOMMERCE",
+    "link": "https://vn.joboko.com/viec-lam-analytical-r-d-executive-pod-idea-product-team-xvi6090820"
+  },
+  {
+    "stt": 72,
+    "ten": "Lập trình viên Front end",
+    "link": "https://vn.joboko.com/viec-lam-lap-trinh-vien-front-end-xvi5987892"
+  },
+  {
+    "stt": 73,
+    "ten": "Business Analyst_ AI",
+    "link": "https://vn.joboko.com/viec-lam-business-analyst-ai-xvi6067146"
+  },
+  {
+    "stt": 74,
+    "ten": "Fullstack Java Angular/ Mạnh Java",
+    "link": "https://vn.joboko.com/viec-lam-tuyen-dung-fullstack-java-angular-manh-java-xvi6081103"
+  },
+  {
+    "stt": 75,
+    "ten": "Lập trình viên Frontend",
+    "link": "https://vn.joboko.com/viec-lam-tuyen-lap-trinh-vien-frontend-xvi6067688"
+  },
+  {
+    "stt": 76,
+    "ten": "THỰC TẬP KỸ SƯ LẬP TRÌNH EMBEDDED/IOT",
+    "link": "https://vn.joboko.com/viec-lam-thuc-tap-ky-su-lap-trinh-embedded-iot-xvi5734080"
+  },
+  {
+    "stt": 77,
+    "ten": "LẬP TRÌNH VIÊN REACT NATIVE",
+    "link": "https://vn.joboko.com/viec-lam-lap-trinh-vien-react-native-xvi6069045"
+  },
+  {
+    "stt": 78,
+    "ten": "Business Analyst Junior",
+    "link": "https://vn.joboko.com/viec-lam-business-analyst-junior-xvi6090980"
+  },
+  {
+    "stt": 79,
+    "ten": "Chuyên viên Quản lý Quy trình và Dữ liệu",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-vien-quan-ly-quy-trinh-va-du-lieu-xvi6078250"
+  },
+  {
+    "stt": 80,
+    "ten": "IT Project Manager E-Commerce",
+    "link": "https://vn.joboko.com/viec-lam-it-project-manager-e-commerce-xvi6098322"
+  },
+  {
+    "stt": 81,
+    "ten": "Shopify Backend Developer",
+    "link": "https://vn.joboko.com/viec-lam-shopify-backend-developer-xvi6059727"
+  },
+  {
+    "stt": 82,
+    "ten": "Backend - Java Developer",
+    "link": "https://vn.joboko.com/viec-lam-backend-java-developer-xvi6094425"
+  },
+  {
+    "stt": 83,
+    "ten": "BUSINESS ANALYST BA",
+    "link": "https://vn.joboko.com/viec-lam-tuyen-business-analyst-ba-xvi6067662"
+  },
+  {
+    "stt": 84,
+    "ten": "Tuyển dụng CHUYÊN VIÊN BUSINESS ANALYST (BA) tại Hà Nội - Công nghệ MH Solution",
+    "link": "https://vn.joboko.com/viec-lam-tuyen-dung-chuyen-vien-business-analyst-ba-tai-ha-noi-cong-nghe-mh-solution-xvi6116993"
+  },
+  {
+    "stt": 85,
+    "ten": "Thực Tập Sinh IT Comtor Tiếng Nhật N2 Fulltime",
+    "link": "https://vn.joboko.com/viec-lam-thuc-tap-sinh-it-comtor-tieng-nhat-n2-fulltime-xvi6019649"
+  },
+  {
+    "stt": 86,
+    "ten": "HÀ NỘI - Tuyển dụng Nhân viên Data Crawler_Web Scraping",
+    "link": "https://vn.joboko.com/viec-lam-ha-noi-tuyen-dung-nhan-vien-data-crawler-web-scraping-xvi6077665"
+  },
+  {
+    "stt": 87,
+    "ten": "Backend Developer NodeJS - Offer upto 35M net",
+    "link": "https://vn.joboko.com/viec-lam-backend-developer-nodejs-offer-upto-35m-net-xvi6107186"
+  },
+  {
+    "stt": 88,
+    "ten": "Game Designer Intern",
+    "link": "https://vn.joboko.com/viec-lam-game-designer-intern-xvi6081371"
+  },
+  {
+    "stt": 89,
+    "ten": "Lập trình viên Backend",
+    "link": "https://vn.joboko.com/viec-lam-lap-trinh-vien-backend-xvi6110220"
+  },
+  {
+    "stt": 90,
+    "ten": "Middle Manual Tester QA/QC",
+    "link": "https://vn.joboko.com/viec-lam-middle-manual-tester-qa-qc-xvi6100838"
+  },
+  {
+    "stt": 91,
+    "ten": "Kỹ sư cầu nối tiếng Nhật",
+    "link": "https://vn.joboko.com/viec-lam-ky-su-cau-noi-tieng-nhat-xvi6074417"
+  },
+  {
+    "stt": 92,
+    "ten": "Nhân viên Data Crawler_Web Scraping",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-data-crawler-web-scraping-xvi6050424"
+  },
+  {
+    "stt": 93,
+    "ten": "QA Tester",
+    "link": "https://vn.joboko.com/viec-lam-qa-tester-xvi6116178"
+  },
+  {
+    "stt": 94,
+    "ten": "Chuyên Viên Tư Vấn Giải Pháp Công Nghệ - Fresales",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-vien-tu-van-giai-phap-cong-nghe-fresales-xvi6060122"
+  },
+  {
+    "stt": 95,
+    "ten": "System Engineer",
+    "link": "https://vn.joboko.com/viec-lam-system-engineer-xvi6064017"
+  },
+  {
+    "stt": 96,
+    "ten": "Lập Trình Viên Mobile App/Mobile Developer - Thu Nhập 30 Triệu",
+    "link": "https://vn.joboko.com/viec-lam-lap-trinh-vien-mobile-app-mobile-developer-thu-nhap-30-trieu-xvi6116603"
+  },
+  {
+    "stt": 97,
+    "ten": "Junior/Middle Full stack Developer .NET/React",
+    "link": "https://vn.joboko.com/viec-lam-junior-middle-full-stack-developer-net-react-xvi6087907"
+  },
+  {
+    "stt": 98,
+    "ten": "Senior Front-End Developer React, NextJS",
+    "link": "https://vn.joboko.com/viec-lam-senior-front-end-developer-react-nextjs-xvi5722606"
+  },
+  {
+    "stt": 99,
+    "ten": "Nhân viên Kinh doanh",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-kinh-doanh-xvi5891654"
+  },
+  {
+    "stt": 100,
+    "ten": "Giám Đốc VQEC",
+    "link": "https://vn.joboko.com/viec-lam-giam-doc-vqec-xvi6116826"
+  },
+  {
+    "stt": 101,
+    "ten": "Java Fullstack Springboot + Vuejs Max 25 Net",
+    "link": "https://vn.joboko.com/viec-lam-java-fullstack-springboot-vuejs-max-25-net-xvi6068917"
+  },
+  {
+    "stt": 102,
+    "ten": "Full-stack Developer Django",
+    "link": "https://vn.joboko.com/viec-lam-full-stack-developer-django-xvi5871097"
+  },
+  {
+    "stt": 103,
+    "ten": "[HN] Công Ty Truyền Thông Và Công Nghệ ICOMM Tuyển Dụng Thực Tập Sinh Front End/Javascript Full-time 2025",
+    "link": "https://vn.joboko.com/viec-lam-hn-cong-ty-truyen-thong-va-cong-nghe-icomm-tuyen-dung-thuc-tap-sinh-front-end-javascript-full-time-2025-xvi6114404"
+  },
+  {
+    "stt": 104,
+    "ten": "Nhân viên Hỗ trợ Hệ thống CNTT",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-ho-tro-he-thong-cntt-xvi6057774"
+  },
+  {
+    "stt": 105,
+    "ten": "Trưởng Nhóm Thiết Kế",
+    "link": "https://vn.joboko.com/viec-lam-truong-nhom-thiet-ke-xvi6114312"
+  },
+  {
+    "stt": 106,
+    "ten": "Thực tập sinh Manual Tester",
+    "link": "https://vn.joboko.com/viec-lam-thuc-tap-sinh-manual-tester-xvi6061944"
+  },
+  {
+    "stt": 107,
+    "ten": "QA/QC Tester",
+    "link": "https://vn.joboko.com/viec-lam-qa-qc-tester-xvi6097141"
+  },
+  {
+    "stt": 108,
+    "ten": "Nhân viên Lập trình C#",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-lap-trinh-c-xvi6068456"
+  },
+  {
+    "stt": 109,
+    "ten": "Backend Developer Thành thạo NodeJS & PHP",
+    "link": "https://vn.joboko.com/viec-lam-backend-developer-thanh-thao-nodejs-php-xvi6080675"
+  },
+  {
+    "stt": 110,
+    "ten": "Fresher QA _English good",
+    "link": "https://vn.joboko.com/viec-lam-fresher-qa-english-good-xvi6081677"
+  },
+  {
+    "stt": 111,
+    "ten": "Intern Java Dev Fulltime Ưu tiên FPT, PTIT, HUST, UET",
+    "link": "https://vn.joboko.com/viec-lam-intern-java-dev-fulltime-uu-tien-fpt-ptit-hust-uet-xvi6061977"
+  },
+  {
+    "stt": 112,
+    "ten": "Senior Front-end Developers",
+    "link": "https://vn.joboko.com/viec-lam-senior-front-end-developers-xvi6069999"
+  },
+  {
+    "stt": 113,
+    "ten": "Project Manager (PM) Tại Hà Nội",
+    "link": "https://vn.joboko.com/viec-lam-project-manager-pm-tai-ha-noi-xvi6114876"
+  },
+  {
+    "stt": 114,
+    "ten": "Software Tester - Fresh Graduated",
+    "link": "https://vn.joboko.com/viec-lam-software-tester-fresh-graduated-xvi6069912"
+  },
+  {
+    "stt": 115,
+    "ten": "Thực tập sinh Quản lý dự án Project Manager - Lĩnh vực Phần mềm",
+    "link": "https://vn.joboko.com/viec-lam-thuc-tap-sinh-quan-ly-du-an-project-manager-linh-vuc-phan-mem-xvi6008567"
+  },
+  {
+    "stt": 116,
+    "ten": "Frontend Developer thành thạo VueJS",
+    "link": "https://vn.joboko.com/viec-lam-frontend-developer-thanh-thao-vuejs-xvi6080730"
+  },
+  {
+    "stt": 117,
+    "ten": "Nhân Viên Vận Hành Hệ Thống E-Learning",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-van-hanh-he-thong-e-learning-xvi6116976"
+  },
+  {
+    "stt": 118,
+    "ten": "Nhân Viên Content Creative Game",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-content-creative-game-xvi6077510"
+  },
+  {
+    "stt": 119,
+    "ten": "Kỹ Sư Giải Pháp Thiết Kế - Điều Khiển Tự Động Hoá",
+    "link": "https://vn.joboko.com/viec-lam-ky-su-giai-phap-thiet-ke-dieu-khien-tu-dong-hoa-xvi6116093"
+  },
+  {
+    "stt": 120,
+    "ten": "Nhân Viên Lập Trình PLC (Chấp Nhận Sinh Viên Mới Ra Trường)",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-lap-trinh-plc-chap-nhan-sinh-vien-moi-ra-truong-xvi6116185"
+  },
+  {
+    "stt": 121,
+    "ten": "Nhân Viên Thiết Kế Đồ Họa",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-thiet-ke-do-hoa-xvi6102423"
+  },
+  {
+    "stt": 122,
+    "ten": "Designer UI/UX",
+    "link": "https://vn.joboko.com/viec-lam-designer-ui-ux-xvi6110776"
+  },
+  {
+    "stt": 123,
+    "ten": "AI Engineer",
+    "link": "https://vn.joboko.com/viec-lam-ai-engineer-xvi6111589"
+  },
+  {
+    "stt": 124,
+    "ten": "Technical Support Engineer - Manual Tester - Nghỉ T7, CN - 1 Năm Kinh Nghiệm Trở Lên - Làm Việc Tại Đà Nẵng, Hà Nội - Thu Nhập Cao So Với Thị Trường",
+    "link": "https://vn.joboko.com/viec-lam-technical-support-engineer-manual-tester-nghi-t7-cn-1-nam-kinh-nghiem-tro-len-lam-viec-tai-da-nang-ha-noi-thu-nhap-cao-so-voi-thi-truong-xvi6107835"
+  },
+  {
+    "stt": 125,
+    "ten": "Chuyên Viên Kinh Doanh Quốc Tế",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-vien-kinh-doanh-quoc-te-xvi6117011"
+  },
+  {
+    "stt": 126,
+    "ten": "Chuyên Viên Vận Hành Hệ Thống IT (Làm Việc Tại Trường Cao Đẳng)",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-vien-van-hanh-he-thong-it-lam-viec-tai-truong-cao-dang-xvi6114945"
+  },
+  {
+    "stt": 127,
+    "ten": "Tuyển dụng CHUYÊN VIÊN SEO WEBSITE tại Hà Nội - Cp Kỹ Thuật Lê Bình",
+    "link": "https://vn.joboko.com/viec-lam-tuyen-dung-chuyen-vien-seo-website-tai-ha-noi-cp-ky-thuat-le-binh-xvi6116774"
+  },
+  {
+    "stt": 128,
+    "ten": "Trợ lý Chủ tịch (mảng Công nghệ)",
+    "link": "https://vn.joboko.com/viec-lam-tro-ly-chu-tich-mang-cong-nghe-xvi6116868"
+  },
+  {
+    "stt": 129,
+    "ten": "Nhân Viên Product Design UI/UX",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-product-design-ui-ux-xvi6114225"
+  },
+  {
+    "stt": 130,
+    "ten": "Senior UX/UI",
+    "link": "https://vn.joboko.com/viec-lam-senior-ux-ui-xvi6115804"
+  },
+  {
+    "stt": 131,
+    "ten": "[HN] Công Ty Công Nghệ PREP Tuyển Dụng Nhân Viên Product Designer - Transformation & B2B (Senior)/Marketing Adminstrator, Chuyên Viên SEO - Thị Trường Hàn Quốc Full-time 2025",
+    "link": "https://vn.joboko.com/viec-lam-hn-cong-ty-cong-nghe-prep-tuyen-dung-nhan-vien-product-designer-transformation-b2b-senior-marketing-adminstrator-chuyen-vien-seo-thi-truong-han-quoc-full-time-2025-xvi6114639"
+  },
+  {
+    "stt": 132,
+    "ten": "Unity Developer",
+    "link": "https://vn.joboko.com/viec-lam-unity-developer-xvi6112288"
+  },
+  {
+    "stt": 133,
+    "ten": "Senior UI/UX Designer (Transformation & B2B)",
+    "link": "https://vn.joboko.com/viec-lam-senior-ui-ux-designer-transformation-b2b-xvi6114015"
+  },
+  {
+    "stt": 134,
+    "ten": "Data Analyst",
+    "link": "https://vn.joboko.com/viec-lam-data-analyst-xvi6112282"
+  },
+  {
+    "stt": 135,
+    "ten": "Kỹ Sư Điện - Tối Thiểu 1 Năm Kinh Nghiệm",
+    "link": "https://vn.joboko.com/viec-lam-ky-su-dien-toi-thieu-1-nam-kinh-nghiem-xvi6090754"
+  },
+  {
+    "stt": 136,
+    "ten": "Project Manager (PM)",
+    "link": "https://vn.joboko.com/viec-lam-project-manager-pm-xvi6111151"
+  },
+  {
+    "stt": 137,
+    "ten": "Phát Triển Sản Phẩm Thời Trang (Tiếng Trung)",
+    "link": "https://vn.joboko.com/viec-lam-phat-trien-san-pham-thoi-trang-tieng-trung-xvi6009533"
+  },
+  {
+    "stt": 138,
+    "ten": "System Engineer",
+    "link": "https://vn.joboko.com/viec-lam-system-engineer-xvi6117179"
+  },
+  {
+    "stt": 139,
+    "ten": "Business Analyst Next-Gen",
+    "link": "https://vn.joboko.com/viec-lam-business-analyst-next-gen-xvi6116632"
+  },
+  {
+    "stt": 140,
+    "ten": "Nhân Viên Hỗ Trợ Kinh Doanh - Sales Admin (Junior)",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-ho-tro-kinh-doanh-sales-admin-junior-xvi6114231"
+  },
+  {
+    "stt": 141,
+    "ten": "Software Development Engineer Next-Gen",
+    "link": "https://vn.joboko.com/viec-lam-software-development-engineer-next-gen-xvi6116725"
+  },
+  {
+    "stt": 142,
+    "ten": "Java Developer (Spring, Microservice) - Hà Nội - TA150",
+    "link": "https://vn.joboko.com/viec-lam-java-developer-spring-microservice-ha-noi-ta150-xvi6112917"
+  },
+  {
+    "stt": 143,
+    "ten": "Quản Lý Dự Án/Chỉ Huy Trưởng",
+    "link": "https://vn.joboko.com/viec-lam-quan-ly-du-an-chi-huy-truong-xvi6074863"
+  },
+  {
+    "stt": 144,
+    "ten": "Fullstack Developer - TA171",
+    "link": "https://vn.joboko.com/viec-lam-fullstack-developer-ta171-xvi6104378"
+  },
+  {
+    "stt": 145,
+    "ten": "Nhân Viên Kinh Doanh / Sale Màn Hình Led ( Lương Cứng Từ 10tr + Hoa Hồng + Trợ Cấp + Thưởng ) Tại Hà Nôi",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-kinh-doanh-sale-man-hinh-led-luong-cung-tu-10tr-hoa-hong-tro-cap-thuong-tai-ha-noi-xvi6116835"
+  },
+  {
+    "stt": 146,
+    "ten": "Senior Frontend Developer (ReactJS, NextJS) - Hà Nội - TA150",
+    "link": "https://vn.joboko.com/viec-lam-senior-frontend-developer-reactjs-nextjs-ha-noi-ta150-xvi6112920"
+  },
+  {
+    "stt": 147,
+    "ten": "Nhân Viên Vận Hành Máy Chấn Gâp",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-van-hanh-may-chan-gap-xvi6090589"
+  },
+  {
+    "stt": 148,
+    "ten": "Nhân Viên Video Editor",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-video-editor-xvi6000462"
+  },
+  {
+    "stt": 149,
+    "ten": "Software Engineer .Net core, C#, ReactJS",
+    "link": "https://vn.joboko.com/viec-lam-software-engineer-net-core-c-reactjs-xvi6078317"
+  },
+  {
+    "stt": 150,
+    "ten": "Lập Trình Viên Phần Mềm (.Net/ Reactjs) / Software Developer",
+    "link": "https://vn.joboko.com/viec-lam-lap-trinh-vien-phan-mem-net-reactjs-software-developer-xvi6066797"
+  },
+  {
+    "stt": 151,
+    "ten": "Kỹ Sư Cơ Điện/ Cấp Thoát Nước/ Điện Nhẹ [Hà Nội/ Hưng Yên] - Thu Nhập Upto 20 Triệu, Tối Thiểu 2 Năm Kinh Nghiệm",
+    "link": "https://vn.joboko.com/viec-lam-ky-su-co-dien-cap-thoat-nuoc-dien-nhe-ha-noi-hung-yen-thu-nhap-upto-20-trieu-toi-thieu-2-nam-kinh-nghiem-xvi6024100"
+  },
+  {
+    "stt": 152,
+    "ten": "Kỹ Sư Phần Mềm (Tiếng Trung)",
+    "link": "https://vn.joboko.com/viec-lam-ky-su-phan-mem-tieng-trung-xvi6033416"
+  },
+  {
+    "stt": 153,
+    "ten": "IT ENGINEER",
+    "link": "https://vn.joboko.com/viec-lam-it-engineer-xvi6101205"
+  },
+  {
+    "stt": 154,
+    "ten": "Nhân Viên Thiết Kế (Ngành Hàng Tiêu Dùng Mẹ Và Bé)",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-thiet-ke-nganh-hang-tieu-dung-me-va-be-xvi6063031"
+  },
+  {
+    "stt": 155,
+    "ten": "Chuyên Viên Thiết Kế - Media",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-vien-thiet-ke-media-xvi6039241"
+  },
+  {
+    "stt": 156,
+    "ten": "Junior QA Engineer QA QC, Tester",
+    "link": "https://vn.joboko.com/viec-lam-junior-qa-engineer-qa-qc-tester-xvi6078357"
+  },
+  {
+    "stt": 157,
+    "ten": "[HN] Công Ty Truyền Hình Cáp Quang Việt Nam VOTV Tuyển Dụng Nhân Viên Kinh Doanh/Kỹ Thuật Full-time 2025",
+    "link": "https://vn.joboko.com/viec-lam-hn-cong-ty-truyen-hinh-cap-quang-viet-nam-votv-tuyen-dung-nhan-vien-kinh-doanh-ky-thuat-full-time-2025-xvi6043289"
+  },
+  {
+    "stt": 158,
+    "ten": "Kỹ Sư Điện - Tự Động Hóa (Thu Nhập 12 - 17M/Tháng)",
+    "link": "https://vn.joboko.com/viec-lam-ky-su-dien-tu-dong-hoa-thu-nhap-12-17m-thang-xvi5980525"
+  },
+  {
+    "stt": 159,
+    "ten": "Project Manager / Product Owner",
+    "link": "https://vn.joboko.com/viec-lam-project-manager-product-owner-xvi5995238"
+  },
+  {
+    "stt": 160,
+    "ten": "[Startup-HN] Công Ty Giải Pháp Công Nghệ SMIT Tuyển Dụng Nhân Viên Lập Trình Backend/Thiết Kế UIUX Full-time 2025",
+    "link": "https://vn.joboko.com/viec-lam-startup-hn-cong-ty-giai-phap-cong-nghe-smit-tuyen-dung-nhan-vien-lap-trinh-backend-thiet-ke-uiux-full-time-2025-xvi6065965"
+  },
+  {
+    "stt": 161,
+    "ten": "[HN] Tập Đoàn Hương Việt Tuyển Dụng Thực Tập Sinh/Nhân Viên Tập Sự Marketing Sales - Truyền Thông Số Full-time/Part-time 2025",
+    "link": "https://vn.joboko.com/viec-lam-hn-tap-doan-huong-viet-tuyen-dung-thuc-tap-sinh-nhan-vien-tap-su-marketing-sales-truyen-thong-so-full-time-part-time-2025-xvi6066235"
+  },
+  {
+    "stt": 162,
+    "ten": "Prompt Engineer",
+    "link": "https://vn.joboko.com/viec-lam-prompt-engineer-xvi6113561"
+  },
+  {
+    "stt": 163,
+    "ten": "Game Developer",
+    "link": "https://vn.joboko.com/viec-lam-game-developer-xvi6060724"
+  },
+  {
+    "stt": 164,
+    "ten": "Nhân Viên Quay Dựng (Ngành Hàng Mẹ Và Bé)",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-quay-dung-nganh-hang-me-va-be-xvi6100847"
+  },
+  {
+    "stt": 165,
+    "ten": "Trưởng Nhóm Kinh Doanh Phần Mềm - Quản Lý Bán Hàng",
+    "link": "https://vn.joboko.com/viec-lam-truong-nhom-kinh-doanh-phan-mem-quan-ly-ban-hang-xvi6057960"
+  },
+  {
+    "stt": 166,
+    "ten": "Tư Vấn Bán Hàng - Máy Giặt Sấy Công Nghiệp",
+    "link": "https://vn.joboko.com/viec-lam-tu-van-ban-hang-may-giat-say-cong-nghiep-xvi6055812"
+  },
+  {
+    "stt": 167,
+    "ten": "Chuyên Viên Kinh Doanh Dự Án (Thiết bị IT)",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-vien-kinh-doanh-du-an-thiet-bi-it-xvi6057205"
+  },
+  {
+    "stt": 168,
+    "ten": "[HN] Công Ty AVEPOINT Tuyển Dụng Thực Tập Sinh/Nhân Viên QA Engineer (Junior) Full-time 2025",
+    "link": "https://vn.joboko.com/viec-lam-hn-cong-ty-avepoint-tuyen-dung-thuc-tap-sinh-nhan-vien-qa-engineer-junior-full-time-2025-xvi5977654"
+  },
+  {
+    "stt": 169,
+    "ten": "Leader Thiết Kế",
+    "link": "https://vn.joboko.com/viec-lam-leader-thiet-ke-xvi6065629"
+  },
+  {
+    "stt": 170,
+    "ten": "Senior Developer - Team Lead",
+    "link": "https://vn.joboko.com/viec-lam-senior-developer-team-lead-xvi5821965"
+  },
+  {
+    "stt": 171,
+    "ten": "[HCM] BUSINESS DEVELOPMENT SUPERVISOR",
+    "link": "https://vn.joboko.com/viec-lam-hcm-business-development-supervisor-xvi6008073"
+  },
+  {
+    "stt": 172,
+    "ten": "Garment Development Merchandiser",
+    "link": "https://vn.joboko.com/viec-lam-garment-development-merchandiser-xvi6085230"
+  },
+  {
+    "stt": 173,
+    "ten": "Process Quality Assurance (3-8 Years Experience)",
+    "link": "https://vn.joboko.com/viec-lam-process-quality-assurance-3-8-years-experience-xvi5995393"
+  },
+  {
+    "stt": 174,
+    "ten": "[HN/ĐN] Công Ty AVEPOINT Tuyển Dụng Thực Tập Sinh Infra Engineer/Salesforce Developer/Software Developer (BI)/Devops Engineer (Junior), Nhân Viên Software Engineer/Product Manager Full-time 2025",
+    "link": "https://vn.joboko.com/viec-lam-hn-dn-cong-ty-avepoint-tuyen-dung-thuc-tap-sinh-infra-engineer-salesforce-developer-software-developer-bi-devops-engineer-junior-nhan-vien-software-engineer-product-manager-full-time-2025-xvi6099742"
+  },
+  {
+    "stt": 175,
+    "ten": "Kỹ Sư Đảm Bảo Chất Lượng/ Fresher - Middle QA/ Tester",
+    "link": "https://vn.joboko.com/viec-lam-ky-su-dam-bao-chat-luong-fresher-middle-qa-tester-xvi6015817"
+  },
+  {
+    "stt": 176,
+    "ten": "[ĐN] Công Ty AVEPOINT Tuyển Dụng Nhân Viên CRM Admin (Junior) Full-time 2025",
+    "link": "https://vn.joboko.com/viec-lam-dn-cong-ty-avepoint-tuyen-dung-nhan-vien-crm-admin-junior-full-time-2025-xvi6079407"
+  },
+  {
+    "stt": 177,
+    "ten": "Chuyên Viên Video Editor",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-vien-video-editor-xvi6090117"
+  },
+  {
+    "stt": 178,
+    "ten": "Fresher Product Owner",
+    "link": "https://vn.joboko.com/viec-lam-fresher-product-owner-xvi6081420"
+  },
+  {
+    "stt": 179,
+    "ten": "FullStack Developer (NodeJS, ReactJS, Vue JS) - Sign On Bonus",
+    "link": "https://vn.joboko.com/viec-lam-fullstack-developer-nodejs-reactjs-vue-js-sign-on-bonus-xvi6117022"
+  },
+  {
+    "stt": 180,
+    "ten": "Chuyên viên Hỗ trợ người dùng (ITHelpdesk)",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-vien-ho-tro-nguoi-dung-ithelpdesk-xvi6112900"
+  },
+  {
+    "stt": 181,
+    "ten": "Cộng Tác Viên Kinh Doanh - Linh Hoạt Thời Gian",
+    "link": "https://vn.joboko.com/viec-lam-cong-tac-vien-kinh-doanh-linh-hoat-thoi-gian-xvi6091115"
+  },
+  {
+    "stt": 182,
+    "ten": "Nhân Viên Senior Full - Stack Developer",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-senior-full-stack-developer-xvi5978406"
+  },
+  {
+    "stt": 183,
+    "ten": "Công Ty Công Nghệ Meta Game Tuyển Dụng Thực Tập Sinh/Nhân Viên UA Marketing Part-time/Full-time 2025",
+    "link": "https://vn.joboko.com/viec-lam-hn-cong-ty-cong-nghe-meta-game-tuyen-dung-thuc-tap-sinh-nhan-vien-ua-marketing-part-time-full-time-2025-xvi5833188"
+  },
+  {
+    "stt": 184,
+    "ten": "Nhân Viên Kinh Doanh Tiếng Trung",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-kinh-doanh-tieng-trung-xvi5391348"
+  },
+  {
+    "stt": 185,
+    "ten": "Nhân viên Hướng dẫn sử dụng Sản phẩm (Ca tối) - Quy mô >700 nhân sự, Đóng BHXH đầy đủ",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-huong-dan-su-dung-san-pham-ca-toi-quy-mo-700-nhan-su-dong-bhxh-day-du-xvi6066196"
+  },
+  {
+    "stt": 186,
+    "ten": "Nhân Viên Hồ Sơ Đấu Thầu (Senior/ Leader - Giải Pháp Công Nghệ)",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-ho-so-dau-thau-senior-leader-giai-phap-cong-nghe-xvi6109831"
+  },
+  {
+    "stt": 187,
+    "ten": "Senior System Analyst - TA171",
+    "link": "https://vn.joboko.com/viec-lam-senior-system-analyst-ta171-xvi6055273"
+  },
+  {
+    "stt": 188,
+    "ten": "Manual Tester",
+    "link": "https://vn.joboko.com/viec-lam-manual-tester-xvi6062576"
+  },
+  {
+    "stt": 189,
+    "ten": "Chuyên Gia Triển khai kế hoạch Thu hồi nợ - - TA080",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-gia-trien-khai-ke-hoach-thu-hoi-no-ha-noi-ta080-xvi5811072"
+  },
+  {
+    "stt": 190,
+    "ten": "SOC Engineer - TA171",
+    "link": "https://vn.joboko.com/viec-lam-soc-engineer-ta171-xvi6088729"
+  },
+  {
+    "stt": 191,
+    "ten": "Chuyên Gia Kiểm Toán Công Nghệ Thông Tin - Phòng Kiểm Toán Công Nghệ Thông Tin - Hà Nội - TA118",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-gia-kiem-toan-cong-nghe-thong-tin-phong-kiem-toan-cong-nghe-thong-tin-ha-noi-ta118-xvi5981382"
+  },
+  {
+    "stt": 192,
+    "ten": "CG Vận hành hệ thống CNTT - TA165",
+    "link": "https://vn.joboko.com/viec-lam-cg-van-hanh-he-thong-cntt-ta165-xvi5833363"
+  },
+  {
+    "stt": 193,
+    "ten": "Nhân Viên Designer Pod",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-designer-pod-xvi6102112"
+  },
+  {
+    "stt": 194,
+    "ten": "Nhân Viên Thiết Kế",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-thiet-ke-xvi6102972"
+  },
+  {
+    "stt": 195,
+    "ten": "CVCC Bảo mật CNTT (AppSec) - TA171",
+    "link": "https://vn.joboko.com/viec-lam-cvcc-bao-mat-cntt-appsec-ta171-xvi6077201"
+  },
+  {
+    "stt": 196,
+    "ten": "Automation Tester - Công Ty LynkiD - TA172",
+    "link": "https://vn.joboko.com/viec-lam-automation-tester-cong-ty-lynkid-ta172-xvi6097874"
+  },
+  {
+    "stt": 197,
+    "ten": "Senior Manual Tester",
+    "link": "https://vn.joboko.com/viec-lam-senior-manual-tester-xvi6028761"
+  },
+  {
+    "stt": 198,
+    "ten": "GPBank - Database Administrator (Level Middle, Senior) - CVCC Vận hành dịch vụ bậc 8 - P. Giải pháp Dữ liệu & Phân tích - Cầu Giấy, Hà Nội",
+    "link": "https://vn.joboko.com/viec-lam-gpbank-database-administrator-level-middle-senior-cvcc-van-hanh-dich-vu-bac-8-p-giai-phap-du-lieu-phan-tich-cau-giay-ha-noi-xvi5981137"
+  },
+  {
+    "stt": 199,
+    "ten": "Mobile Developer (Flutter/Native) - Công ty LynkiD - TA172",
+    "link": "https://vn.joboko.com/viec-lam-mobile-developer-flutter-native-cong-ty-lynkid-ta172-xvi6073937"
+  },
+  {
+    "stt": 200,
+    "ten": "Senior Java Developer _ TA144",
+    "link": "https://vn.joboko.com/viec-lam-senior-java-developer-ta144-xvi5981877"
+  },
+  {
+    "stt": 201,
+    "ten": "Senior Business Intelligence Analyst - Corporate Banking - - TA139",
+    "link": "https://vn.joboko.com/viec-lam-senior-business-intelligence-analyst-corporate-banking-ha-noi-ta139-xvi5901605"
+  },
+  {
+    "stt": 202,
+    "ten": "Senior Business Intelligence Analyst - Collection - - TA139",
+    "link": "https://vn.joboko.com/viec-lam-senior-business-intelligence-analyst-collection-ha-noi-ta139-xvi5919242"
+  },
+  {
+    "stt": 203,
+    "ten": "Senior Data Tester _TA144",
+    "link": "https://vn.joboko.com/viec-lam-senior-data-tester-ta144-xvi6020379"
+  },
+  {
+    "stt": 204,
+    "ten": "[HN] Hệ Sinh Thái Về Giáo Dục HBR Holdings Tuyển Dụng Thực Tập Sinh PHP, Nhân Viên Developer PHP/Coder AI (Junior) Full-time 2025",
+    "link": "https://vn.joboko.com/viec-lam-hn-he-sinh-thai-ve-giao-duc-hbr-holdings-tuyen-dung-thuc-tap-sinh-php-nhan-vien-developer-php-coder-ai-junior-full-time-2025-xvi6105683"
+  },
+  {
+    "stt": 205,
+    "ten": "Phát Triển Kinh Doanh/Business Development (B2B)",
+    "link": "https://vn.joboko.com/viec-lam-phat-trien-kinh-doanh-business-development-b2b-xvi6101629"
+  },
+  {
+    "stt": 206,
+    "ten": "CVCC Phân tích kinh doanh - Mảng Thu hồi nợ - - TA139",
+    "link": "https://vn.joboko.com/viec-lam-cvcc-phan-tich-kinh-doanh-mang-thu-hoi-no-ha-noi-ta139-xvi5918000"
+  },
+  {
+    "stt": 207,
+    "ten": "Senior Partnership Development - - TA050",
+    "link": "https://vn.joboko.com/viec-lam-senior-partnership-development-ha-noi-ta050-xvi5556533"
+  },
+  {
+    "stt": 208,
+    "ten": "Senior Solution Architect - - TA150",
+    "link": "https://vn.joboko.com/viec-lam-senior-solution-architect-ha-noi-ta150-xvi5695800"
+  },
+  {
+    "stt": 209,
+    "ten": "Product Owner - Công Ty LynkiD - TA172",
+    "link": "https://vn.joboko.com/viec-lam-product-owner-cong-ty-lynkid-ta172-xvi6079515"
+  },
+  {
+    "stt": 210,
+    "ten": "Chuyên Viên Cao Cấp Mua Sắm Công Nghệ Thông Tin - - TA118",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-vien-cao-cap-mua-sam-cong-nghe-thong-tin-ha-noi-ta118-xvi5700983"
+  },
+  {
+    "stt": 211,
+    "ten": "Senior Fullstack Mobile Developer (Flutter + Native + Backend Java/NodeJS) - TA172",
+    "link": "https://vn.joboko.com/viec-lam-senior-fullstack-mobile-developer-flutter-native-backend-java-nodejs-ta172-xvi5950456"
+  },
+  {
+    "stt": 212,
+    "ten": "Chuyên viên cao cấp vận hành dịch vụ CNTT - HN/HCM - TA050",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-vien-cao-cap-van-hanh-dich-vu-cntt-hn-hcm-ta050-xvi6041975"
+  },
+  {
+    "stt": 213,
+    "ten": "Product Owner/Business Analyst",
+    "link": "https://vn.joboko.com/viec-lam-product-owner-business-analyst-xvi6109898"
+  },
+  {
+    "stt": 214,
+    "ten": "Senior Data Governance Specialist - - TA139",
+    "link": "https://vn.joboko.com/viec-lam-senior-data-governance-specialist-ha-noi-ta139-xvi5876937"
+  },
+  {
+    "stt": 215,
+    "ten": "IT OPS/DevOps - HN/HCM - TA050",
+    "link": "https://vn.joboko.com/viec-lam-it-ops-devops-hn-hcm-ta050-xvi6045103"
+  },
+  {
+    "stt": 216,
+    "ten": "IT Compliance And Risk Control Senior Officer",
+    "link": "https://vn.joboko.com/viec-lam-it-compliance-and-risk-control-senior-officer-xvi6072043"
+  },
+  {
+    "stt": 217,
+    "ten": "Data Tester - CVCC Kiểm soát chất lượng - TA165",
+    "link": "https://vn.joboko.com/viec-lam-data-tester-cvcc-kiem-soat-chat-luong-ta165-xvi6030286"
+  },
+  {
+    "stt": 218,
+    "ten": "Quản lí dự án cao cấp - Senior Project Manager - TA165",
+    "link": "https://vn.joboko.com/viec-lam-quan-li-du-an-cao-cap-senior-project-manager-ta165-xvi5945125"
+  },
+  {
+    "stt": 219,
+    "ten": "CVCC Quản trị hệ thống Nhân sự - Hà Nội - TA163",
+    "link": "https://vn.joboko.com/viec-lam-cvcc-quan-tri-he-thong-nhan-su-ha-noi-ta163-xvi6063263"
+  },
+  {
+    "stt": 220,
+    "ten": "Chuyên viên cao cấp Quản trị dữ liệu - Mảng vận hành công cụ - HN - TA139",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-vien-cao-cap-quan-tri-du-lieu-mang-van-hanh-cong-cu-hn-ta139-xvi5809923"
+  },
+  {
+    "stt": 221,
+    "ten": "CVCC Phân tích kinh doanh KHDN - - TA139",
+    "link": "https://vn.joboko.com/viec-lam-cvcc-phan-tich-luong-kinh-doanh-khdn-ha-noi-ta139-xvi5901623"
+  },
+  {
+    "stt": 222,
+    "ten": "Chuyên gia QLSP - (Product owner - Corporate Card) - Hà Nội - TA 170",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-gia-qlsp-product-owner-corporate-card-ha-noi-ta-170-xvi6087368"
+  },
+  {
+    "stt": 223,
+    "ten": "Senior IT Compliance - Hà Nội - TA139",
+    "link": "https://vn.joboko.com/viec-lam-senior-it-compliance-ha-noi-ta139-xvi6064498"
+  },
+  {
+    "stt": 224,
+    "ten": "Mobile Developer - Công Ty LynkiD - TA172",
+    "link": "https://vn.joboko.com/viec-lam-mobile-developer-cong-ty-lynkid-ta172-xvi6097898"
+  },
+  {
+    "stt": 225,
+    "ten": "Nhân Viên Kinh Doanh, Tư Vấn Phần Mềm/ Sale B2B",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-kinh-doanh-tu-van-phan-mem-sale-b2b-xvi6108708"
+  },
+  {
+    "stt": 226,
+    "ten": "Product Owner _ CRM Project - Hà Nội - TA050",
+    "link": "https://vn.joboko.com/viec-lam-product-owner-crm-project-ha-noi-ta050-xvi6060957"
+  },
+  {
+    "stt": 227,
+    "ten": "CVC Vận Hành Hệ Thống CNTT - TA172",
+    "link": "https://vn.joboko.com/viec-lam-cvc-van-hanh-he-thong-cntt-ta172-xvi5782194"
+  },
+  {
+    "stt": 228,
+    "ten": "Automation & Manual Tester - TA171",
+    "link": "https://vn.joboko.com/viec-lam-automation-manual-tester-ta171-xvi6073734"
+  },
+  {
+    "stt": 229,
+    "ten": "Senior Business Intelligence Analyst - Retail Banking- - TA139",
+    "link": "https://vn.joboko.com/viec-lam-senior-business-intelligence-analyst-retail-banking-ha-noi-ta139-xvi5720208"
+  },
+  {
+    "stt": 230,
+    "ten": "IT Governance Senior Officer",
+    "link": "https://vn.joboko.com/viec-lam-it-governance-senior-officer-xvi6072040"
+  },
+  {
+    "stt": 231,
+    "ten": "Business Development Manager - Kênh DS - TA161",
+    "link": "https://vn.joboko.com/viec-lam-business-development-manager-kenh-ds-ta161-xvi6071100"
+  },
+  {
+    "stt": 232,
+    "ten": "Junior Backend Developer - TA171",
+    "link": "https://vn.joboko.com/viec-lam-junior-backend-developer-ta171-xvi6091328"
+  },
+  {
+    "stt": 233,
+    "ten": "CVCC Quản trị dịch vụ CNTT - TA165",
+    "link": "https://vn.joboko.com/viec-lam-cvcc-quan-tri-dich-vu-cntt-ta165-xvi6055665"
+  },
+  {
+    "stt": 234,
+    "ten": "CVCC Quản trị hệ thống - - TA163",
+    "link": "https://vn.joboko.com/viec-lam-cvcc-quan-tri-he-thong-nhan-su-ha-noi-ta163-xvi5878553"
+  },
+  {
+    "stt": 235,
+    "ten": "Java Developer (Microservices, Spring Boot) - TA150",
+    "link": "https://vn.joboko.com/viec-lam-java-developer-microservices-spring-boot-ta150-xvi5991879"
+  },
+  {
+    "stt": 236,
+    "ten": "Data Engineer - TA165",
+    "link": "https://vn.joboko.com/viec-lam-data-engineer-ta165-xvi6030282"
+  },
+  {
+    "stt": 237,
+    "ten": "CVCC Bảo mật CNTT - TA171",
+    "link": "https://vn.joboko.com/viec-lam-cvcc-bao-mat-cntt-ta171-xvi5760779"
+  },
+  {
+    "stt": 238,
+    "ten": "Senior System Analyst - GenAI - TA171",
+    "link": "https://vn.joboko.com/viec-lam-senior-system-analyst-genai-ta171-xvi6058194"
+  },
+  {
+    "stt": 239,
+    "ten": "CVCC Quản Lý Danh Mục Dự Án- Hà Nội- TA084",
+    "link": "https://vn.joboko.com/viec-lam-cvcc-quan-ly-danh-muc-du-an-ha-noi-ta084-xvi6049174"
+  },
+  {
+    "stt": 240,
+    "ten": "Senior Data Scientist - - TA150",
+    "link": "https://vn.joboko.com/viec-lam-senior-data-scientist-ha-noi-ta150-xvi5811941"
+  },
+  {
+    "stt": 241,
+    "ten": "CVCC Quản trị dữ liệu - Hà Nội - TA139",
+    "link": "https://vn.joboko.com/viec-lam-cvcc-quan-tri-du-lieu-ha-noi-ta139-xvi6085801"
+  },
+  {
+    "stt": 242,
+    "ten": "Mobile-Frontend Developer - TA185",
+    "link": "https://vn.joboko.com/viec-lam-mobile-frontend-developer-ta185-xvi6072137"
+  },
+  {
+    "stt": 243,
+    "ten": "Chuyên gia Phân tích Kinh doanh - BI Expert - TA171",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-gia-phan-tich-kinh-doanh-bi-expert-ta171-xvi5999902"
+  },
+  {
+    "stt": 244,
+    "ten": "Senior Backend Developer (NodeJS, Python) - Hà Nội - TA150",
+    "link": "https://vn.joboko.com/viec-lam-senior-backend-developer-nodejs-python-ha-noi-ta150-xvi6080646"
+  },
+  {
+    "stt": 245,
+    "ten": "Senior Dotnet Developer _TA144",
+    "link": "https://vn.joboko.com/viec-lam-senior-dotnet-developer-ta144-xvi6026169"
+  },
+  {
+    "stt": 246,
+    "ten": "Chuyên Viên Chính Xây Dựng Mô Hình Rủi Ro- - TA084",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-vien-chinh-xay-dung-mo-hinh-rui-ro-ha-noi-ta084-xvi5819648"
+  },
+  {
+    "stt": 247,
+    "ten": "Business Intelligence Expert - Ecosystem - Hà Nội - TA139",
+    "link": "https://vn.joboko.com/viec-lam-business-intelligence-expert-ecosystem-ha-noi-ta139-xvi6057182"
+  },
+  {
+    "stt": 248,
+    "ten": "CVCC Vận hành hệ thống CNTT - IT Collaboration Operator - TA165",
+    "link": "https://vn.joboko.com/viec-lam-cvcc-van-hanh-he-thong-cntt-it-collaboration-operator-ta165-xvi5907639"
+  },
+  {
+    "stt": 249,
+    "ten": "Product Owner _ CRM Project - HN - TA050",
+    "link": "https://vn.joboko.com/viec-lam-product-owner-crm-project-hn-ta050-xvi6068502"
+  },
+  {
+    "stt": 250,
+    "ten": "Senior Tester - TA171",
+    "link": "https://vn.joboko.com/viec-lam-senior-tester-ta171-xvi6035068"
+  },
+  {
+    "stt": 251,
+    "ten": "CG Phát triển giải pháp - TA171",
+    "link": "https://vn.joboko.com/viec-lam-cg-phat-trien-giai-phap-ta171-xvi6012612"
+  },
+  {
+    "stt": 252,
+    "ten": "Senior Business Analyst - TA171 - CBS Project",
+    "link": "https://vn.joboko.com/viec-lam-senior-business-analyst-ta171-cbs-project-xvi6026175"
+  },
+  {
+    "stt": 253,
+    "ten": "Senior AI Engineer - - TA139",
+    "link": "https://vn.joboko.com/viec-lam-senior-ai-engineer-ha-noi-ta139-xvi5763909"
+  },
+  {
+    "stt": 254,
+    "ten": "Kiến trúc sư nghiệp vụ_TA 144",
+    "link": "https://vn.joboko.com/viec-lam-kien-truc-su-nghiep-vu-ta-144-xvi6055267"
+  },
+  {
+    "stt": 255,
+    "ten": "CVC Phân tích kinh doanh - - TA139",
+    "link": "https://vn.joboko.com/viec-lam-cvc-phan-tich-kinh-doanh-ha-noi-ta139-xvi5732044"
+  },
+  {
+    "stt": 256,
+    "ten": "CVCC Số hóa sản phẩm đầu tư - Hà Nội - TA050",
+    "link": "https://vn.joboko.com/viec-lam-cvcc-so-hoa-san-pham-dau-tu-ha-noi-ta050-xvi6027064"
+  },
+  {
+    "stt": 257,
+    "ten": "Java Developer - TA185",
+    "link": "https://vn.joboko.com/viec-lam-java-developer-ta185-xvi6069167"
+  },
+  {
+    "stt": 258,
+    "ten": "Developer Expert - TA171",
+    "link": "https://vn.joboko.com/viec-lam-developer-expert-ta171-xvi6041987"
+  },
+  {
+    "stt": 259,
+    "ten": "CVCC Vận hành hệ thống mạng - Network Operator- TA165",
+    "link": "https://vn.joboko.com/viec-lam-cvcc-van-hanh-he-thong-mang-network-operator-ta165-xvi6045097"
+  },
+  {
+    "stt": 260,
+    "ten": "Business Analyst _TA 144",
+    "link": "https://vn.joboko.com/viec-lam-business-analyst-ta-144-xvi5981901"
+  },
+  {
+    "stt": 261,
+    "ten": "Product Owner",
+    "link": "https://vn.joboko.com/viec-lam-product-owner-xvi6087395"
+  },
+  {
+    "stt": 262,
+    "ten": "Chuyên Viên Kiểm Thử Phần Mềm",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-vien-kiem-thu-phan-mem-tester-xvi5196189"
+  },
+  {
+    "stt": 263,
+    "ten": "Java Developer - Lập Trình Viên Java",
+    "link": "https://vn.joboko.com/viec-lam-java-developer-lap-trinh-vien-java-e-payment-finance-banking-xvi5539783"
+  },
+  {
+    "stt": 264,
+    "ten": "IT Recruiter",
+    "link": "https://vn.joboko.com/viec-lam-it-recruiter-xvi6087274"
+  },
+  {
+    "stt": 265,
+    "ten": "Automation Tester (Middle)",
+    "link": "https://vn.joboko.com/viec-lam-automation-tester-middle-xvi6113257"
+  },
+  {
+    "stt": 266,
+    "ten": "Mid/Senior Backend Developer (Golang/Python/TypeScript)",
+    "link": "https://vn.joboko.com/viec-lam-mid-senior-backend-developer-golang-python-typescript-xvi6064396"
+  },
+  {
+    "stt": 267,
+    "ten": "Nhân Viên Kinh Doanh GPS, Camera Hành Trình",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-kinh-doanh-gps-camera-hanh-trinh-xvi6104806"
+  },
+  {
+    "stt": 268,
+    "ten": "Giám Đốc Vận Hành - COO",
+    "link": "https://vn.joboko.com/viec-lam-giam-doc-van-hanh-coo-xvi6087272"
+  },
+  {
+    "stt": 269,
+    "ten": "Trợ Lý Giám Đốc (Có Tiếng Anh)",
+    "link": "https://vn.joboko.com/viec-lam-tro-ly-giam-doc-co-tieng-anh-xvi6113368"
+  },
+  {
+    "stt": 270,
+    "ten": "Manual Tester - QC",
+    "link": "https://vn.joboko.com/viec-lam-manual-tester-qc-xvi6114137"
+  },
+  {
+    "stt": 271,
+    "ten": "Backend Developer",
+    "link": "https://vn.joboko.com/viec-lam-backend-developer-xvi6060981"
+  },
+  {
+    "stt": 272,
+    "ten": "Video Editor/ Chỉnh Sửa Video - Kể Chuyện Bằng Hình Ảnh (Thu Nhập 10 -15 Triệu) Tại TP. Hà Nội",
+    "link": "https://vn.joboko.com/viec-lam-video-editor-chinh-sua-video-ke-chuyen-bang-hinh-anh-thu-nhap-10-15-trieu-tai-tp-ha-noi-xvi5953749"
+  },
+  {
+    "stt": 273,
+    "ten": "CV Quản trị hạ tầng Cấp 1-3",
+    "link": "https://vn.joboko.com/viec-lam-cv-quan-tri-ha-tang-cap-1-3-xvi6113808"
+  },
+  {
+    "stt": 274,
+    "ten": "Chuyên Viên Nghiệp Vụ Dịch Vụ Cấp 2",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-vien-nghiep-vu-dich-vu-cap-2-xvi6116035"
+  },
+  {
+    "stt": 275,
+    "ten": "Nhân Viên Quay Dựng",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-quay-dung-xvi6108017"
+  },
+  {
+    "stt": 276,
+    "ten": "Lập Trình Viên Front-End (VueJS - Y/C 2 Năm Kinh Nghiệm, Thu Nhập 15 - 20 Triệu/Tháng)",
+    "link": "https://vn.joboko.com/viec-lam-lap-trinh-vien-front-end-vuejs-y-c-2-nam-kinh-nghiem-thu-nhap-15-20-trieu-thang-xvi6106990"
+  },
+  {
+    "stt": 277,
+    "ten": "Trưởng Nhóm Quản Trị Hệ Thống (System Admin L3)",
+    "link": "https://vn.joboko.com/viec-lam-truong-nhom-quan-tri-he-thong-system-admin-l3-xvi6115600"
+  },
+  {
+    "stt": 278,
+    "ten": "Nhân Viên Kiểm Thử Phần Mềm (Tester - Y/C 2 Năm Kinh Nghiệm, Thu Nhập 15 - 22 Triệu/Tháng)",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-kiem-thu-phan-mem-tester-y-c-2-nam-kinh-nghiem-thu-nhap-15-22-trieu-thang-xvi6107126"
+  },
+  {
+    "stt": 279,
+    "ten": "Middle AI Developer",
+    "link": "https://vn.joboko.com/viec-lam-middle-ai-developer-xvi6092733"
+  },
+  {
+    "stt": 280,
+    "ten": "Chuyên Viên Tích Hợp Và Tích Hợp Hệ Thống (Developer)",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-vien-tich-hop-va-tich-hop-he-thong-developer-xvi5942537"
+  },
+  {
+    "stt": 281,
+    "ten": "Business Analyst (Middle)",
+    "link": "https://vn.joboko.com/viec-lam-business-analyst-middle-xvi6113233"
+  },
+  {
+    "stt": 282,
+    "ten": "Senior AI Developer",
+    "link": "https://vn.joboko.com/viec-lam-senior-ai-developer-xvi6092393"
+  },
+  {
+    "stt": 283,
+    "ten": "GPBankJava DeveloperLevel Middle/Senior/ExpertCore",
+    "link": "https://vn.joboko.com/viec-lam-gpbankjava-developerlevel-middle-senior-expertcore-xvi6057680"
+  },
+  {
+    "stt": 284,
+    "ten": "Chuyên viên Quản trị ứng dụng - Khối Công nghệ Ngân hàng số",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-vien-quan-tri-ung-dung-khoi-cong-nghe-ngan-hang-so-xvi6077190"
+  },
+  {
+    "stt": 285,
+    "ten": "Nhân Viên Kỹ Thuật Shopdrawing Tại Hà Nội (Điện, Cấp Thoát) Thu Nhập Upto 25 Triệu",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-ky-thuat-shopdrawing-tai-ha-noi-dien-cap-thoat-thu-nhap-upto-25-trieu-xvi6089992"
+  },
+  {
+    "stt": 286,
+    "ten": "DevOps Engineer Cloud, Security, DevSecOps",
+    "link": "https://vn.joboko.com/viec-lam-devops-engineer-cloud-security-devsecops-xvi6076276"
+  },
+  {
+    "stt": 287,
+    "ten": "Nhân Viên Dựng Phim",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-dung-phim-xvi6052449"
+  },
+  {
+    "stt": 288,
+    "ten": "Senior Manager, Software Engineering (40001152)",
+    "link": "https://vn.joboko.com/viec-lam-senior-manager-software-engineering-40001152-xvi6115076"
+  },
+  {
+    "stt": 289,
+    "ten": "Trưởng phòng kỹ thuật máy photocopy",
+    "link": "https://vn.joboko.com/viec-lam-truong-phong-ky-thuat-may-photocopy-xvi6103905"
+  },
+  {
+    "stt": 290,
+    "ten": "Project Manager (IT solutions- Enterprise Clients)",
+    "link": "https://vn.joboko.com/viec-lam-project-manager-it-solutions-enterprise-clients-xvi6075317"
+  },
+  {
+    "stt": 291,
+    "ten": "Nhân Viên IT",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-it-xvi6114761"
+  },
+  {
+    "stt": 292,
+    "ten": "Scientific Communication",
+    "link": "https://vn.joboko.com/viec-lam-scientific-communication-xvi6065893"
+  },
+  {
+    "stt": 293,
+    "ten": "Kỹ Sư Thiết Kế Cơ Khí Tủ Lạnh",
+    "link": "https://vn.joboko.com/viec-lam-ky-su-thiet-ke-co-khi-tu-lanh-xvi6114789"
+  },
+  {
+    "stt": 294,
+    "ten": "Chuyên Viên Công Nghệ Thẻ",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-vien-cong-nghe-the-xvi6072386"
+  },
+  {
+    "stt": 295,
+    "ten": "Graphic Design",
+    "link": "https://vn.joboko.com/viec-lam-graphic-design-xvi6046258"
+  },
+  {
+    "stt": 296,
+    "ten": "Chuyên viên cao cấp Ngân hàng số - Khối Công nghệ Ngân hàng số",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-vien-cao-cap-ngan-hang-so-khoi-cong-nghe-ngan-hang-so-xvi6076297"
+  },
+  {
+    "stt": 297,
+    "ten": "Software Architect (Healthcare Project)",
+    "link": "https://vn.joboko.com/viec-lam-software-architect-healthcare-project-xvi6105457"
+  },
+  {
+    "stt": 298,
+    "ten": "Nhân Viên Media - Video Editor/Quay Dựng",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-media-video-editor-quay-dung-xvi6070053"
+  },
+  {
+    "stt": 299,
+    "ten": "Nhân Viên Kỹ Thuật Máy Tính, Camera",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-ky-thuat-may-tinh-camera-xvi5969032"
+  },
+  {
+    "stt": 300,
+    "ten": "Nhân Viên Video Editor",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-video-editor-xvi5833853"
+  },
+  {
+    "stt": 301,
+    "ten": "GPBankApplication Operator/System Operator",
+    "link": "https://vn.joboko.com/viec-lam-gpbankapplication-operator-system-operator-xvi6062895"
+  },
+  {
+    "stt": 302,
+    "ten": "Kỹ Sư Thiết Kế Điện",
+    "link": "https://vn.joboko.com/viec-lam-ky-su-thiet-ke-dien-xvi6114551"
+  },
+  {
+    "stt": 303,
+    "ten": "Chuyên Viên Thiết Kế (Bài Giảng/Slide/Sách)",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-vien-thiet-ke-bai-giang-slide-sach-xvi6090363"
+  },
+  {
+    "stt": 304,
+    "ten": "Cộng Tác Viên Quay Dựng Video",
+    "link": "https://vn.joboko.com/viec-lam-cong-tac-vien-quay-dung-video-xvi6102980"
+  },
+  {
+    "stt": 305,
+    "ten": "Account Manager",
+    "link": "https://vn.joboko.com/viec-lam-account-manager-xvi6104619"
+  },
+  {
+    "stt": 306,
+    "ten": "Chuyên viên ERP",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-vien-erp-xvi6111513"
+  },
+  {
+    "stt": 307,
+    "ten": "Chuyên Viên Thiết Kế Slide/ Bài Giảng",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-vien-thiet-ke-slide-bai-giang-xvi6090370"
+  },
+  {
+    "stt": 308,
+    "ten": "Graphic Designer Mảng Xuất Bản Sách - Thiết Kế & Dàn Trang/Layout Sách",
+    "link": "https://vn.joboko.com/viec-lam-graphic-designer-mang-xuat-ban-sach-thiet-ke-dan-trang-layout-sach-xvi6018620"
+  },
+  {
+    "stt": 309,
+    "ten": "Nhân Viên Kỹ Thuật Điện / Nước",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-ky-thuat-dien-nuoc-xvi5982970"
+  },
+  {
+    "stt": 310,
+    "ten": "Kỹ Sư Kinh Doanh Tự Động Hoá/Sales Engineer - Làm Việc Tại Hà Nội, Hồ Chí Minh",
+    "link": "https://vn.joboko.com/viec-lam-ky-su-kinh-doanh-tu-dong-hoa-sales-engineer-lam-viec-tai-ha-noi-ho-chi-minh-xvi5949843"
+  },
+  {
+    "stt": 311,
+    "ten": "Nhân Viên Quản Lý Dự Án Khối Công Nghệ",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-quan-ly-du-an-khoi-cong-nghe-xvi6097248"
+  },
+  {
+    "stt": 312,
+    "ten": "Nhân Viên Kinh Doanh / Sale Digital Marketing",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-kinh-doanh-sale-digital-marketing-xvi6093758"
+  },
+  {
+    "stt": 313,
+    "ten": "Nhân Viên Vận Hành Hệ Thống",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-van-hanh-he-thong-xvi6081335"
+  },
+  {
+    "stt": 314,
+    "ten": "Fullstack Developer",
+    "link": "https://vn.joboko.com/viec-lam-fullstack-developer-xvi6108088"
+  },
+  {
+    "stt": 315,
+    "ten": "[HN] Công Ty Công Nghệ PREP Tuyển Dụng Chuyên Viên Quản Lý Sản Phẩm (Hệ Thống Business) Full-time 2025",
+    "link": "https://vn.joboko.com/viec-lam-hn-cong-ty-cong-nghe-prep-tuyen-dung-chuyen-vien-quan-ly-san-pham-he-thong-business-full-time-2025-xvi6077555"
+  },
+  {
+    "stt": 316,
+    "ten": "Python Developer (AI / LLM Application)",
+    "link": "https://vn.joboko.com/viec-lam-python-developer-ai-llm-application-xvi6091504"
+  },
+  {
+    "stt": 317,
+    "ten": "[TUYỂN DỤNG] - Nhân viên Kinh doanh dự án",
+    "link": "https://vn.joboko.com/viec-lam-tuyen-dung-nhan-vien-kinh-doanh-du-an-xvi6081947"
+  },
+  {
+    "stt": 318,
+    "ten": "Giảng Viên IELTS Full-Time [Hà Nội] - Thu Nhập 25-40 Triệu/Tháng, Có Sẵn Giáo Trình & Phần Mềm Hỗ Trợ, Lịch Dạy Linh Hoạt Tự Chọ, Đào Tạo Sư Phạm Miễn Phí",
+    "link": "https://vn.joboko.com/viec-lam-giang-vien-ielts-full-time-ha-noi-thu-nhap-25-40-trieu-thang-co-san-giao-trinh-phan-mem-ho-tro-lich-day-linh-hoat-tu-cho-dao-tao-su-pham-mien-phi-xvi6091484"
+  },
+  {
+    "stt": 319,
+    "ten": "Trưởng Nhóm Mua Hàng (Dịch Vụ Game Và Tiện Ích)",
+    "link": "https://vn.joboko.com/viec-lam-truong-nhom-mua-hang-dich-vu-game-va-tien-ich-xvi6086271"
+  },
+  {
+    "stt": 320,
+    "ten": "Nhân Viên IT Helpdesk",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-it-helpdesk-xvi6001914"
+  },
+  {
+    "stt": 321,
+    "ten": "Nhân Viên Design",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-design-xvi6008969"
+  },
+  {
+    "stt": 322,
+    "ten": "Natural Language Processing (NLP) Engineer",
+    "link": "https://vn.joboko.com/viec-lam-natural-language-processing-nlp-engineer-xvi6013709"
+  },
+  {
+    "stt": 323,
+    "ten": "Nhân Viên Editor",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-editor-xvi6100429"
+  },
+  {
+    "stt": 324,
+    "ten": "Leader QA Biết Tiếng Nhật",
+    "link": "https://vn.joboko.com/viec-lam-leader-qa-biet-tieng-nhat-xvi6064303"
+  },
+  {
+    "stt": 325,
+    "ten": "[HN] Công Ty Công Nghệ Infinity Technologies Global Tuyển Dụng Chuyên Viên Digital Marketing (User Acquisition)/Product Owner (Mobile App) Full-time 2025",
+    "link": "https://vn.joboko.com/viec-lam-hn-cong-ty-cong-nghe-infinity-technologies-global-tuyen-dung-chuyen-vien-digital-marketing-user-acquisition-product-owner-mobile-app-full-time-2025-xvi6093186"
+  },
+  {
+    "stt": 326,
+    "ten": "Trưởng Nhóm QA Có Kinh Nghiệm Test",
+    "link": "https://vn.joboko.com/viec-lam-truong-nhom-qa-co-kinh-nghiem-test-xvi6072503"
+  },
+  {
+    "stt": 327,
+    "ten": "Sales & Marketing - Lương Cứng 15M - 25M",
+    "link": "https://vn.joboko.com/viec-lam-sales-marketing-luong-cung-15m-25m-xvi6074460"
+  },
+  {
+    "stt": 328,
+    "ten": "Chuyên Viên Phát Triển Sản Phẩm - Nhà Máy Số Doanh Nghiệp - Khối Ngân Hàng Số (Ho25.455)",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-vien-phat-trien-san-pham-nha-may-so-doanh-nghiep-khoi-ngan-hang-so-ho25-455-xvi6113516"
+  },
+  {
+    "stt": 329,
+    "ten": "Fullstack Developer (Java Spring Boot + Angular)",
+    "link": "https://vn.joboko.com/viec-lam-fullstack-developer-java-spring-boot-angular-xvi6108170"
+  },
+  {
+    "stt": 330,
+    "ten": "Chuyên viên IT",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-vien-it-xvi6108226"
+  },
+  {
+    "stt": 331,
+    "ten": "Nhân Viên Editor Video - Thu Nhập Upto 13 Triệu/Tháng - Đi Làm Ngay (Hà Nội)",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-editor-video-thu-nhap-upto-13-trieu-thang-di-lam-ngay-ha-noi-xvi6100239"
+  },
+  {
+    "stt": 332,
+    "ten": "Product Owner",
+    "link": "https://vn.joboko.com/viec-lam-product-owner-xvi6059928"
+  },
+  {
+    "stt": 333,
+    "ten": "Nhân Viên Quản Lý Dự Án Khối Công Nghệ",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-quan-ly-du-an-khoi-cong-nghe-xvi6084158"
+  },
+  {
+    "stt": 334,
+    "ten": "Chuyên Viên Phân Tích Dữ Liệu (Logistic)",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-vien-phan-tich-du-lieu-logistic-xvi5962470"
+  },
+  {
+    "stt": 335,
+    "ten": "Trưởng Nhóm Kiểm Thử Phần Mềm",
+    "link": "https://vn.joboko.com/viec-lam-truong-nhom-kiem-thu-phan-mem-xvi6114032"
+  },
+  {
+    "stt": 336,
+    "ten": "Nhân Viên QA Tiếng Nhật",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-qa-tieng-nhat-xvi5986709"
+  },
+  {
+    "stt": 337,
+    "ten": "Kỹ Thuật Khách Sạn",
+    "link": "https://vn.joboko.com/viec-lam-ky-thuat-khach-san-xvi6115888"
+  },
+  {
+    "stt": 338,
+    "ten": "Tester Ielts Không Yêu Cầu Kinh Nghiệm (Hà Nội & Hồ Chí Minh)",
+    "link": "https://vn.joboko.com/viec-lam-tester-ielts-khong-yeu-cau-kinh-nghiem-ha-noi-ho-chi-minh-xvi6013272"
+  },
+  {
+    "stt": 339,
+    "ten": "Data Engineer Executive",
+    "link": "https://vn.joboko.com/viec-lam-data-engineer-executive-xvi5910049"
+  },
+  {
+    "stt": 340,
+    "ten": "Nhân viên triển khai phần mềm ERP",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-trien-khai-phan-mem-erp-xvi5894236"
+  },
+  {
+    "stt": 341,
+    "ten": "Senior Business Development",
+    "link": "https://vn.joboko.com/viec-lam-senior-business-development-sales-b2b-xvi5769009"
+  },
+  {
+    "stt": 342,
+    "ten": "[HN] Công Ty Bảo Hiểm Ngân Hàng VietinBank (VBI) Tuyển Dụng Digital Insurance Intern Full-time 2025",
+    "link": "https://vn.joboko.com/viec-lam-hn-cong-ty-bao-hiem-ngan-hang-vietinbank-vbi-tuyen-dung-digital-insurance-intern-full-time-2025-xvi6115655"
+  },
+  {
+    "stt": 343,
+    "ten": "[HN] Công Ty Công Nghệ PREP Tuyển Dụng Nhân Viên Phát Triển Nội Dung E-Learning Full-time 2025",
+    "link": "https://vn.joboko.com/viec-lam-hn-cong-ty-cong-nghe-prep-tuyen-dung-nhan-vien-phat-trien-noi-dung-e-learning-full-time-2025-xvi6075891"
+  },
+  {
+    "stt": 344,
+    "ten": "Product Owner (Internal System)",
+    "link": "https://vn.joboko.com/viec-lam-product-owner-internal-system-xvi6090111"
+  },
+  {
+    "stt": 345,
+    "ten": "TRỢ LÝ TGĐ",
+    "link": "https://vn.joboko.com/viec-lam-tro-ly-tgd-mang-cong-nghe-thong-tin-xvi5074137"
+  },
+  {
+    "stt": 346,
+    "ten": "Kỹ Sư QS M&E",
+    "link": "https://vn.joboko.com/viec-lam-ky-su-qs-m-e-xvi6104361"
+  },
+  {
+    "stt": 347,
+    "ten": "Senior Data Scientist",
+    "link": "https://vn.joboko.com/viec-lam-senior-data-scientist-xvi6114257"
+  },
+  {
+    "stt": 348,
+    "ten": "Product Owner (Business Systems)",
+    "link": "https://vn.joboko.com/viec-lam-product-owner-business-systems-xvi6076894"
+  },
+  {
+    "stt": 349,
+    "ten": "Product Owner",
+    "link": "https://vn.joboko.com/viec-lam-product-owner-xvi6114869"
+  },
+  {
+    "stt": 350,
+    "ten": "User Acquisition Marketing (Mobile App/Game)",
+    "link": "https://vn.joboko.com/viec-lam-user-acquisition-marketing-mobile-app-game-xvi6095653"
+  },
+  {
+    "stt": 351,
+    "ten": "E-Learning Content Developer",
+    "link": "https://vn.joboko.com/viec-lam-e-learning-content-developer-xvi6087720"
+  },
+  {
+    "stt": 352,
+    "ten": "Senior Product Designer (Senior UI/UX)",
+    "link": "https://vn.joboko.com/viec-lam-senior-product-designer-senior-ui-ux-xvi5961576"
+  },
+  {
+    "stt": 353,
+    "ten": "Fullstack Developer (MERN stack)",
+    "link": "https://vn.joboko.com/viec-lam-fullstack-developer-mern-stack-xvi6086295"
+  },
+  {
+    "stt": 354,
+    "ten": "Công Ty Công Nghệ Prep Tuyển Dụng Chuyên Viên Content Community Executive Tiếng Trung Full-time 2025",
+    "link": "https://vn.joboko.com/viec-lam-hn-cong-ty-cong-nghe-prep-tuyen-dung-chuyen-vien-content-community-executive-tieng-trung-full-time-2025-xvi5850279"
+  },
+  {
+    "stt": 355,
+    "ten": "Kỹ Sư Bảo Trì - Tự Động Hoá",
+    "link": "https://vn.joboko.com/viec-lam-ky-su-bao-tri-tu-dong-hoa-xvi6027534"
+  },
+  {
+    "stt": 356,
+    "ten": "Junior Designer (IMC)",
+    "link": "https://vn.joboko.com/viec-lam-junior-designer-imc-xvi6096387"
+  },
+  {
+    "stt": 357,
+    "ten": "Senior Game Unity Developer",
+    "link": "https://vn.joboko.com/viec-lam-senior-game-unity-developer-xvi6111217"
+  },
+  {
+    "stt": 358,
+    "ten": "Nhân Viên Quản Trị Hệ Thống - Công Nghệ Thông Tin",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-quan-tri-he-thong-cong-nghe-thong-tin-xvi6045891"
+  },
+  {
+    "stt": 359,
+    "ten": "Thiết Kế Mockup POD",
+    "link": "https://vn.joboko.com/viec-lam-thiet-ke-mockup-pod-xvi6061551"
+  },
+  {
+    "stt": 360,
+    "ten": "Chuyên Viên Cao Cấp An Ninh Thông Tin (Soc/network Sec) - Tntech - 4B025",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-vien-cao-cap-an-ninh-thong-tin-soc-network-sec-tntech-4b025-xvi6113899"
+  },
+  {
+    "stt": 361,
+    "ten": "Nhân Viên Tester Tiếng Anh Online",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-tester-tieng-anh-online-xvi6035233"
+  },
+  {
+    "stt": 362,
+    "ten": "Kỹ Sư QS Cơ Điện",
+    "link": "https://vn.joboko.com/viec-lam-ky-su-qs-co-dien-xvi6104386"
+  },
+  {
+    "stt": 363,
+    "ten": "Chuyên Viên Vận Hành/Operation Executive",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-vien-van-hanh-operation-executive-xvi6115460"
+  },
+  {
+    "stt": 364,
+    "ten": "Upload/ Listing POD",
+    "link": "https://vn.joboko.com/viec-lam-upload-listing-pod-xvi5962285"
+  },
+  {
+    "stt": 365,
+    "ten": "Nhân Viên Editor",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-editor-xvi6086200"
+  },
+  {
+    "stt": 366,
+    "ten": "Product Owner Digital Advertising",
+    "link": "https://vn.joboko.com/viec-lam-product-owner-digital-advertising-xvi6113588"
+  },
+  {
+    "stt": 367,
+    "ten": "Mid Software Engineer",
+    "link": "https://vn.joboko.com/viec-lam-mid-software-engineer-xvi6076882"
+  },
+  {
+    "stt": 368,
+    "ten": "Content Creator (Sản Phẩm App/Game)",
+    "link": "https://vn.joboko.com/viec-lam-content-creator-san-pham-app-game-xvi6093735"
+  },
+  {
+    "stt": 369,
+    "ten": "Phó phòng Vận hành lớp học trực tuyến",
+    "link": "https://vn.joboko.com/viec-lam-pho-phong-van-hanh-lop-hoc-truc-tuyen-xvi6086115"
+  },
+  {
+    "stt": 370,
+    "ten": "Chuyên Gia Kiến Trúc Công Nghệ (Solution Architect) - HO - 2V041",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-gia-kien-truc-cong-nghe-solution-architect-ho-2v041-xvi6114485"
+  },
+  {
+    "stt": 371,
+    "ten": "Flutter Lead Mobile Lead (Fintech), Lương Upto 50M",
+    "link": "https://vn.joboko.com/viec-lam-flutter-lead-mobile-lead-fintech-luong-upto-50m-xvi6112965"
+  },
+  {
+    "stt": 372,
+    "ten": "[Online] Viettonkin Tuyển dụng Thực tập sinh Website Content/ Business Development/ Translation Full-time 2025",
+    "link": "https://vn.joboko.com/viec-lam-online-viettonkin-tuyen-dung-thuc-tap-sinh-website-content-business-development-translation-full-time-2025-xvi6079862"
+  },
+  {
+    "stt": 373,
+    "ten": "Flutter Lead (Fintech)",
+    "link": "https://vn.joboko.com/viec-lam-flutter-lead-fintech-xvi6111207"
+  },
+  {
+    "stt": 374,
+    "ten": "Senior QC Associate (Fintech)",
+    "link": "https://vn.joboko.com/viec-lam-senior-qc-associate-fintech-xvi6111024"
+  },
+  {
+    "stt": 375,
+    "ten": "Graphic Designer (Từ 1 Năm Kinh Nghiệm) 11 - 15 Triệu/Tháng",
+    "link": "https://vn.joboko.com/viec-lam-graphic-designer-tu-1-nam-kinh-nghiem-11-15-trieu-thang-xvi6009217"
+  },
+  {
+    "stt": 376,
+    "ten": "Flutter Lead (Fintech)",
+    "link": "https://vn.joboko.com/viec-lam-flutter-lead-fintech-xvi6111213"
+  },
+  {
+    "stt": 377,
+    "ten": "Trưởng Nhóm Kinh Doanh Phần Mềm",
+    "link": "https://vn.joboko.com/viec-lam-truong-nhom-kinh-doanh-phan-mem-xvi6052936"
+  },
+  {
+    "stt": 378,
+    "ten": "Nhân Viên Kinh Doanh (Tư Vấn Thiết Bị/Hệ Thống Xử Lý Nước)",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-kinh-doanh-tu-van-thiet-bi-he-thong-xu-ly-nuoc-xvi6071815"
+  },
+  {
+    "stt": 379,
+    "ten": "Chuyên Viên R&D Điện Gia Dụng",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-vien-r-d-dien-gia-dung-xvi6114538"
+  },
+  {
+    "stt": 380,
+    "ten": "Nhân Viên Lập Trình Ruby On Rails",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-lap-trinh-ruby-on-rails-xvi5573804"
+  },
+  {
+    "stt": 381,
+    "ten": "Senior QC Associate (Fintech)",
+    "link": "https://vn.joboko.com/viec-lam-senior-qc-associate-fintech-xvi6111184"
+  },
+  {
+    "stt": 382,
+    "ten": "Video Editer Partime",
+    "link": "https://vn.joboko.com/viec-lam-video-editer-partime-xvi6069434"
+  },
+  {
+    "stt": 383,
+    "ten": "Nhân Viên Tư Vấn Kỹ Thuật Phần Cứng - Presales",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-tu-van-ky-thuat-phan-cung-presales-xvi6015684"
+  },
+  {
+    "stt": 384,
+    "ten": "Chuyên viên Phát triển Nội dung Đào tạo (Lập trình và Dữ liệu)",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-vien-phat-trien-noi-dung-dao-tao-lap-trinh-va-du-lieu-xvi6060184"
+  },
+  {
+    "stt": 385,
+    "ten": "Fullstack Developer",
+    "link": "https://vn.joboko.com/viec-lam-fullstack-developer-xvi6101591"
+  },
+  {
+    "stt": 386,
+    "ten": "Product Owner (Lĩnh Vực Edtech, Thu Nhập Upto 50 Triệu)",
+    "link": "https://vn.joboko.com/viec-lam-product-owner-linh-vuc-edtech-thu-nhap-upto-50-trieu-xvi6070473"
+  },
+  {
+    "stt": 387,
+    "ten": "Chuyên Viên Setup Vận Hành Trạm Sạc",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-vien-setup-van-hanh-tram-sac-xvi6103109"
+  },
+  {
+    "stt": 388,
+    "ten": "Chỉ Huy Công Trường (Lương Từ 15 - 30 Triệu + Thưởng Dự Án)",
+    "link": "https://vn.joboko.com/viec-lam-chi-huy-cong-truong-luong-tu-15-30-trieu-thuong-du-an-xvi6112023"
+  },
+  {
+    "stt": 389,
+    "ten": "Lập Trình Viên .Net (BackEnd)",
+    "link": "https://vn.joboko.com/viec-lam-lap-trinh-vien-net-backend-xvi6075240"
+  },
+  {
+    "stt": 390,
+    "ten": "[HN] Business Analyst (FP&A/FC/MIS)",
+    "link": "https://vn.joboko.com/viec-lam-hn-business-analyst-fp-a-fc-mis-xvi6111012"
+  },
+  {
+    "stt": 391,
+    "ten": "HN Data Analyst Up to 1000",
+    "link": "https://vn.joboko.com/viec-lam-hn-data-analyst-up-to-1000-xvi6066495"
+  },
+  {
+    "stt": 392,
+    "ten": "Security Engineer (SOC)",
+    "link": "https://vn.joboko.com/viec-lam-security-engineer-soc-xvi6091491"
+  },
+  {
+    "stt": 393,
+    "ten": "Thực Tập Sinh .Net Developer (Full-Time)",
+    "link": "https://vn.joboko.com/viec-lam-thuc-tap-sinh-net-developer-full-time-xvi6109244"
+  },
+  {
+    "stt": 394,
+    "ten": "Nhân Viên Kinh Doanh Chữ Ký Số",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-kinh-doanh-chu-ky-so-xvi6111553"
+  },
+  {
+    "stt": 395,
+    "ten": "Junior Sales IT",
+    "link": "https://vn.joboko.com/viec-lam-junior-sales-it-xvi5875045"
+  },
+  {
+    "stt": 396,
+    "ten": "Lập trình viên C++",
+    "link": "https://vn.joboko.com/viec-lam-lap-trinh-vien-c-xvi5933665"
+  },
+  {
+    "stt": 397,
+    "ten": "Chuyên Viên Kinh Doanh - Thị Trường Nhật",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-vien-kinh-doanh-it-outsourcing-thi-truong-nhat-xvi5841186"
+  },
+  {
+    "stt": 398,
+    "ten": "Kỹ Sư / Nhân viên phát triển Sản Phẩm",
+    "link": "https://vn.joboko.com/viec-lam-ky-su-nhan-vien-phat-trien-san-pham-product-development-engineer-staff-xvi5599970"
+  },
+  {
+    "stt": 399,
+    "ten": "Nhân Viên Bảo Trì Thiết Bị",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-bao-tri-thiet-bi-xvi6082497"
+  },
+  {
+    "stt": 400,
+    "ten": "[HN] NHÂN VIÊN IT QUẢN TRỊ MẠNG VÀ HỆ THỐNG",
+    "link": "https://vn.joboko.com/viec-lam-hn-nhan-vien-it-quan-tri-mang-va-he-thong-xvi6013074"
+  },
+  {
+    "stt": 401,
+    "ten": "Tester Intern Fulltime",
+    "link": "https://vn.joboko.com/viec-lam-tester-intern-fulltime-xvi6104974"
+  },
+  {
+    "stt": 402,
+    "ten": "Monetization Freelancer (App Mobile)",
+    "link": "https://vn.joboko.com/viec-lam-monetization-freelancer-app-mobile-xvi6022959"
+  },
+  {
+    "stt": 403,
+    "ten": "HN Soc Engineer",
+    "link": "https://vn.joboko.com/viec-lam-hn-soc-engineer-xvi6069800"
+  },
+  {
+    "stt": 404,
+    "ten": "Nhân Viên Kinh Doanh (Lương 20-30 Triệu)",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-kinh-doanh-luong-20-30-trieu-xvi6105609"
+  },
+  {
+    "stt": 405,
+    "ten": "Quản lý dự án Project Leader/Manager - thị trường Nhật",
+    "link": "https://vn.joboko.com/viec-lam-quan-ly-du-an-project-leader-manager-thi-truong-nhat-xvi5171783"
+  },
+  {
+    "stt": 406,
+    "ten": "Chuyên Viên Editor Youtube",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-vien-editor-youtube-xvi6071652"
+  },
+  {
+    "stt": 407,
+    "ten": "Nhân viên triển khai bản vẽ nhà gỗ",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-trien-khai-ban-ve-nha-go-phan-mem-jwwcad-xvi5843680"
+  },
+  {
+    "stt": 408,
+    "ten": "[HN] Nhân Viên Business Analyst",
+    "link": "https://vn.joboko.com/viec-lam-hn-nhan-vien-business-analyst-xvi5980217"
+  },
+  {
+    "stt": 409,
+    "ten": "Chuyên viên kinh doanh",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-vien-kinh-doanh-it-outsourcing-thi-truong-nhat-xvi5923105"
+  },
+  {
+    "stt": 410,
+    "ten": "Business Analyst",
+    "link": "https://vn.joboko.com/viec-lam-business-analyst-xvi5891155"
+  },
+  {
+    "stt": 411,
+    "ten": "Lập Trình Viên FRONT-END Developer Full Time",
+    "link": "https://vn.joboko.com/viec-lam-lap-trinh-vien-front-end-developer-full-time-xvi6071755"
+  },
+  {
+    "stt": 412,
+    "ten": "IT Project Manager/ Senior BrSE - Tiếng Nhật N2",
+    "link": "https://vn.joboko.com/viec-lam-it-project-manager-senior-brse-tieng-nhat-n2-xvi5882151"
+  },
+  {
+    "stt": 413,
+    "ten": "Java Developer (Experience with Banking)",
+    "link": "https://vn.joboko.com/viec-lam-java-developer-experience-with-banking-xvi6097139"
+  },
+  {
+    "stt": 414,
+    "ten": "Tuyển dụng NHÂN VIÊN PHÂN TÍCH NGHIỆP VỤ (BUSINESS ANALYST) tại Hà Nội",
+    "link": "https://vn.joboko.com/viec-lam-tuyen-dung-nhan-vien-phan-tich-nghiep-vu-business-analyst-tai-ha-noi-xvi6113913"
+  },
+  {
+    "stt": 415,
+    "ten": "Nhân Viên Kĩ Thuật Tại Hà Nội (Đi Làm Ngay)",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-ki-thuat-tai-ha-noi-di-lam-ngay-xvi6105326"
+  },
+  {
+    "stt": 416,
+    "ten": "Java Developer (Golang)",
+    "link": "https://vn.joboko.com/viec-lam-java-developer-golang-xvi6115538"
+  },
+  {
+    "stt": 417,
+    "ten": "3D Game Artist",
+    "link": "https://vn.joboko.com/viec-lam-3d-game-artist-xvi6108107"
+  },
+  {
+    "stt": 418,
+    "ten": "Nhân Viên Kế Hoạch",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-ke-hoach-xvi6106770"
+  },
+  {
+    "stt": 419,
+    "ten": "Japanese BrSE/BA (JLPT N2 Trở Lên, Upto 70M)",
+    "link": "https://vn.joboko.com/viec-lam-japanese-brse-ba-jlpt-n2-tro-len-upto-70m-xvi6038036"
+  },
+  {
+    "stt": 420,
+    "ten": "Chuyên Viên Thiết Kế Hành Trình Khách Hàng Cấp 4",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-vien-thiet-ke-hanh-trinh-khach-hang-cap-4-xvi6107660"
+  },
+  {
+    "stt": 421,
+    "ten": "Kỹ Thuật Sửa Chữa Máy Xây Dựng",
+    "link": "https://vn.joboko.com/viec-lam-ky-thuat-sua-chua-may-xay-dung-xvi6089983"
+  },
+  {
+    "stt": 422,
+    "ten": "SRE - Site Reliability Engineer (DevOp,AWS)",
+    "link": "https://vn.joboko.com/viec-lam-sre-site-reliability-engineer-devop-aws-xvi6106191"
+  },
+  {
+    "stt": 423,
+    "ten": "Nhân sự",
+    "link": "https://vn.joboko.com/viec-lam-nhan-su-xvi6109847"
+  },
+  {
+    "stt": 424,
+    "ten": "Python Developer (with NestJS)",
+    "link": "https://vn.joboko.com/viec-lam-python-developer-with-nestjs-xvi6081859"
+  },
+  {
+    "stt": 425,
+    "ten": "Chuyên Viên Ngành Hàng Android",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-vien-nganh-hang-android-xvi6105552"
+  },
+  {
+    "stt": 426,
+    "ten": "Chuyên Viên Quay Dựng (Đi Làm Ngay)",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-vien-quay-dung-di-lam-ngay-xvi6108031"
+  },
+  {
+    "stt": 427,
+    "ten": "Nhân Viên Đánh Giá, Trải Nghiệm Phần Mềm",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-danh-gia-trai-nghiem-phan-mem-xvi6105094"
+  },
+  {
+    "stt": 428,
+    "ten": "2D Graphic Designer Fulltime",
+    "link": "https://vn.joboko.com/viec-lam-2d-graphic-designer-fulltime-xvi6113737"
+  },
+  {
+    "stt": 429,
+    "ten": "Kỹ Sư Mạng",
+    "link": "https://vn.joboko.com/viec-lam-ky-su-mang-xvi6108194"
+  },
+  {
+    "stt": 430,
+    "ten": "Mobile Developers",
+    "link": "https://vn.joboko.com/viec-lam-mobile-developers-xvi6095693"
+  },
+  {
+    "stt": 431,
+    "ten": "Chuyên viên Phân Tích Nghiệp Vụ (Business analyst) khối chính phủ",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-vien-phan-tich-nghiep-vu-business-analyst-khoi-chinh-phu-xvi6110573"
+  },
+  {
+    "stt": 432,
+    "ten": "Chuyên viên An ninh mạng - Pentester Ứng dụng (Cấp 2-3)",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-vien-an-ninh-mang-pentester-ung-dung-cap-2-3-xvi6007030"
+  },
+  {
+    "stt": 433,
+    "ten": "Nhân Viên Kỹ Thuật Máy Photocopy",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-ky-thuat-may-photocopy-xvi5972906"
+  },
+  {
+    "stt": 434,
+    "ten": "Flutter Developer(Senior)",
+    "link": "https://vn.joboko.com/viec-lam-flutter-developer-senior-xvi6113925"
+  },
+  {
+    "stt": 435,
+    "ten": "Fresher Kiểm Thử Web/App",
+    "link": "https://vn.joboko.com/viec-lam-fresher-kiem-thu-web-app-xvi6101425"
+  },
+  {
+    "stt": 436,
+    "ten": "Android Developer (With Web Skills)",
+    "link": "https://vn.joboko.com/viec-lam-android-developer-with-web-skills-xvi6083072"
+  },
+  {
+    "stt": 437,
+    "ten": "Kỹ Sư Cầu Nối Hàn Quốc (Korean BrSE)",
+    "link": "https://vn.joboko.com/viec-lam-ky-su-cau-noi-han-quoc-korean-brse-xvi6015498"
+  },
+  {
+    "stt": 438,
+    "ten": "Nhân Viên Kinh Doanh B2B Cho Thuê Máy Văn Phòng",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-kinh-doanh-b2b-cho-thue-may-van-phong-xvi5999507"
+  },
+  {
+    "stt": 439,
+    "ten": "Giảng Viên IT - FPTU HN",
+    "link": "https://vn.joboko.com/viec-lam-giang-vien-it-fptu-hn-xvi6105281"
+  },
+  {
+    "stt": 440,
+    "ten": "Technical Lead ( C#, Java, Python) - Upto 65M",
+    "link": "https://vn.joboko.com/viec-lam-technical-lead-c-java-python-upto-65m-xvi6038191"
+  },
+  {
+    "stt": 441,
+    "ten": "Business Analyst (Level: Middle Trở Lên)",
+    "link": "https://vn.joboko.com/viec-lam-business-analyst-level-middle-tro-len-xvi6111679"
+  },
+  {
+    "stt": 442,
+    "ten": "Project Manager - Upto 60M",
+    "link": "https://vn.joboko.com/viec-lam-project-manager-upto-60m-xvi6071174"
+  },
+  {
+    "stt": 443,
+    "ten": "CV Quản trị ứng dụng Cấp 1-3",
+    "link": "https://vn.joboko.com/viec-lam-cv-quan-tri-ung-dung-cap-1-3-xvi6109684"
+  },
+  {
+    "stt": 444,
+    "ten": "[Hà Nội] CVCC/CVC Sản phẩm Ngân hàng số Khách hàng Doanh nghiệp",
+    "link": "https://vn.joboko.com/viec-lam-ha-noi-cvcc-cvc-san-pham-ngan-hang-so-khach-hang-doanh-nghiep-xvi6102291"
+  },
+  {
+    "stt": 445,
+    "ten": "NHÂN VIÊN KINH DOANH",
+    "link": "https://vn.joboko.com/viec-lam-tuyen-gap-nhan-vien-kinh-doanh-xvi4290725"
+  },
+  {
+    "stt": 446,
+    "ten": "Ua Marketing Specialist (Game Global)",
+    "link": "https://vn.joboko.com/viec-lam-ua-marketing-specialist-game-global-xvi5933352"
+  },
+  {
+    "stt": 447,
+    "ten": "Chuyên Viên Cao Cấp An Toàn Thông Tin",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-vien-cao-cap-an-toan-thong-tin-xvi6098449"
+  },
+  {
+    "stt": 448,
+    "ten": "SAP ABAP DEVELOPER",
+    "link": "https://vn.joboko.com/viec-lam-sap-abap-developer-xvi6030996"
+  },
+  {
+    "stt": 449,
+    "ten": "NV Triển Khai - Phát Triển Thị Trường Giải Chạy",
+    "link": "https://vn.joboko.com/viec-lam-nv-trien-khai-phat-trien-thi-truong-giai-chay-xvi6086949"
+  },
+  {
+    "stt": 450,
+    "ten": "Automation Quality Control Domain Blockchain",
+    "link": "https://vn.joboko.com/viec-lam-automation-quality-control-domain-blockchain-xvi6096203"
+  },
+  {
+    "stt": 451,
+    "ten": "Nhân Viên Tester",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-tester-xvi6109175"
+  },
+  {
+    "stt": 452,
+    "ten": "Vận Hành Cộng Đồng Game",
+    "link": "https://vn.joboko.com/viec-lam-van-hanh-cong-dong-game-xvi5949591"
+  },
+  {
+    "stt": 453,
+    "ten": "Frontend Developer",
+    "link": "https://vn.joboko.com/viec-lam-frontend-developer-xvi6064044"
+  },
+  {
+    "stt": 454,
+    "ten": "Nhân Viên IT Admin & Helpdesk Lương Upto 12M (Chỉ Tuyển Nữ )",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-it-admin-helpdesk-luong-upto-12m-chi-tuyen-nu-xvi6093827"
+  },
+  {
+    "stt": 455,
+    "ten": "[HN] Công Ty Giải Pháp MKT Tuyển Dụng Nhân Viên Lập Trình Nodejs/Business Analyst/Thiết Kế Đồ Hoạ/Kinh Doanh Full-time 2025",
+    "link": "https://vn.joboko.com/viec-lam-hn-cong-ty-giai-phap-mkt-tuyen-dung-nhan-vien-lap-trinh-nodejs-business-analyst-thiet-ke-do-hoa-kinh-doanh-full-time-2025-xvi6074834"
+  },
+  {
+    "stt": 456,
+    "ten": "IT Security Safety Cloud, System Admin, Networking",
+    "link": "https://vn.joboko.com/viec-lam-it-security-safety-cloud-system-admin-networking-xvi6069791"
+  },
+  {
+    "stt": 457,
+    "ten": "Automation Quality Control",
+    "link": "https://vn.joboko.com/viec-lam-automation-quality-control-xvi4811701"
+  },
+  {
+    "stt": 458,
+    "ten": "Business Analyst/ N2, N1 JLPT",
+    "link": "https://vn.joboko.com/viec-lam-business-analyst-n2-n1-jlpt-xvi6046250"
+  },
+  {
+    "stt": 459,
+    "ten": "Nhân viên Admin & IT Helpdesk",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-admin-it-helpdesk-xvi6092296"
+  },
+  {
+    "stt": 460,
+    "ten": "Middle/Senior Data Engineer (Fluent in English - HCM/HN)",
+    "link": "https://vn.joboko.com/viec-lam-middle-senior-data-engineer-fluent-in-english-hcm-hn-xvi6050996"
+  },
+  {
+    "stt": 461,
+    "ten": "Backend Developer",
+    "link": "https://vn.joboko.com/viec-lam-backend-developer-xvi6092703"
+  },
+  {
+    "stt": 462,
+    "ten": "Kỹ Sư Phát Triển Thiết Bị Bán Dẫn",
+    "link": "https://vn.joboko.com/viec-lam-ky-su-phat-trien-thiet-bi-ban-dan-xvi6046805"
+  },
+  {
+    "stt": 463,
+    "ten": "Vận Hành Game",
+    "link": "https://vn.joboko.com/viec-lam-van-hanh-game-xvi5952510"
+  },
+  {
+    "stt": 464,
+    "ten": "Chuyên Viên Tư Vấn",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-vien-tu-van-xvi6111742"
+  },
+  {
+    "stt": 465,
+    "ten": "Trưởng phòng Data Analyst",
+    "link": "https://vn.joboko.com/viec-lam-truong-phong-data-analyst-xvi6096432"
+  },
+  {
+    "stt": 466,
+    "ten": "SAP MM Consultant",
+    "link": "https://vn.joboko.com/viec-lam-sap-mm-consultant-xvi6069801"
+  },
+  {
+    "stt": 467,
+    "ten": "IOS Game",
+    "link": "https://vn.joboko.com/viec-lam-ios-game-xvi6077037"
+  },
+  {
+    "stt": 468,
+    "ten": "Mid/Senior Golang Backend Developer",
+    "link": "https://vn.joboko.com/viec-lam-mid-senior-golang-backend-developer-xvi6084726"
+  },
+  {
+    "stt": 469,
+    "ten": "Senior Business Development - ANZ Market",
+    "link": "https://vn.joboko.com/viec-lam-senior-business-development-anz-market-xvi5946495"
+  },
+  {
+    "stt": 470,
+    "ten": "[HN] Công Ty Công Nghệ FUNTAP Tuyển Dụng CTV Game Media/Chăm Sóc Khách Hàng Full-time 2025",
+    "link": "https://vn.joboko.com/viec-lam-hn-cong-ty-cong-nghe-funtap-tuyen-dung-ctv-game-media-cham-soc-khach-hang-full-time-2025-xvi6065670"
+  },
+  {
+    "stt": 471,
+    "ten": "MIS Leader",
+    "link": "https://vn.joboko.com/viec-lam-mis-leader-xvi6099876"
+  },
+  {
+    "stt": 472,
+    "ten": "Senior Site Reliability Engineer",
+    "link": "https://vn.joboko.com/viec-lam-senior-site-reliability-engineer-xvi6112806"
+  },
+  {
+    "stt": 473,
+    "ten": "IT Security & Safety",
+    "link": "https://vn.joboko.com/viec-lam-it-security-safety-xvi6036253"
+  },
+  {
+    "stt": 474,
+    "ten": "Product Owner (Fintech)",
+    "link": "https://vn.joboko.com/viec-lam-product-owner-fintech-xvi5925122"
+  },
+  {
+    "stt": 475,
+    "ten": "Trường Phòng Kỹ Thuật",
+    "link": "https://vn.joboko.com/viec-lam-truong-phong-ky-thuat-xvi6079873"
+  },
+  {
+    "stt": 476,
+    "ten": "Giảng Viên Data Analyst",
+    "link": "https://vn.joboko.com/viec-lam-giang-vien-data-analyst-xvi6095223"
+  },
+  {
+    "stt": 477,
+    "ten": "Lập Trình Viên Nodejs Kn 2 Năm",
+    "link": "https://vn.joboko.com/viec-lam-lap-trinh-vien-nodejs-kn-2-nam-xvi6004778"
+  },
+  {
+    "stt": 478,
+    "ten": "Component Test Engineer",
+    "link": "https://vn.joboko.com/viec-lam-component-test-engineer-xvi5994680"
+  },
+  {
+    "stt": 479,
+    "ten": "[HN] Công Ty Công Nghệ Thông Tin SmartOSC Tuyển Dụng Thực Tập Sinh Đào Tạo (L&D) Full-time 2025",
+    "link": "https://vn.joboko.com/viec-lam-hn-cong-ty-cong-nghe-thong-tin-smartosc-tuyen-dung-thuc-tap-sinh-dao-tao-l-d-full-time-2025-xvi6113055"
+  },
+  {
+    "stt": 480,
+    "ten": "Kỹ Sư Thiết Kế Phần Cứng",
+    "link": "https://vn.joboko.com/viec-lam-ky-su-thiet-ke-phan-cung-xvi6106314"
+  },
+  {
+    "stt": 481,
+    "ten": "DevOps Engineer (Fintech)",
+    "link": "https://vn.joboko.com/viec-lam-devops-engineer-fintech-xvi6000794"
+  },
+  {
+    "stt": 482,
+    "ten": "Nhân Viên Kinh Doanh Thị Trường",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-kinh-doanh-thi-truong-xvi6105847"
+  },
+  {
+    "stt": 483,
+    "ten": "Senior Java Developer (Fluent in English)",
+    "link": "https://vn.joboko.com/viec-lam-senior-java-developer-fluent-in-english-xvi6043434"
+  },
+  {
+    "stt": 484,
+    "ten": "Account Manager/Sale IT",
+    "link": "https://vn.joboko.com/viec-lam-account-manager-sale-it-xvi6031124"
+  },
+  {
+    "stt": 485,
+    "ten": "Chuyên viên Content SEO",
+    "link": "https://vn.joboko.com/viec-lam-chuyen-vien-content-seo-xvi5036781"
+  },
+  {
+    "stt": 486,
+    "ten": "MANUAL TESTER",
+    "link": "https://vn.joboko.com/viec-lam-manual-tester-xvi6079307"
+  },
+  {
+    "stt": 487,
+    "ten": "Senior Officer, Business Data Analyst (Techcom Life)",
+    "link": "https://vn.joboko.com/viec-lam-senior-officer-business-data-analyst-techcom-life-xvi6110574"
+  },
+  {
+    "stt": 488,
+    "ten": "Trợ Giảng Lập Trình",
+    "link": "https://vn.joboko.com/viec-lam-tro-giang-lap-trinh-xvi5661191"
+  },
+  {
+    "stt": 489,
+    "ten": "Nhân Viên Thiết Kế",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-thiet-ke-xvi6043180"
+  },
+  {
+    "stt": 490,
+    "ten": "Nhân viên Admin & IT Helpdesk",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-admin-it-helpdesk-xvi6085430"
+  },
+  {
+    "stt": 491,
+    "ten": "Nhân Viên Kỹ Thuật Triển Khai",
+    "link": "https://vn.joboko.com/viec-lam-nhan-vien-ky-thuat-trien-khai-xvi5895766"
+  }
+]
