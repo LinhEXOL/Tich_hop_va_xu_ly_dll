@@ -1,0 +1,7 @@
+pandas
+pyyaml
+python-Levenshtein
+scikit-learn
+textblob
+
+
