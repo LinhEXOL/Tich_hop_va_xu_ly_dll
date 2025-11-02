@@ -333,11 +333,11 @@ class DataCleaner:
             cleaned_df['location_clean'] = cleaned_df['Địa điểm công việc'].apply(
                 self.clean_text)
             # Extract city and state for Vietnamese locations
-            # cleaned_df['city'] = cleaned_df['Địa điểm công việc'].apply(
-            #     self._extract_vietnamese_city)
-            # cleaned_df['state'] = cleaned_df['Địa điểm công việc'].apply(
-            #     self._extract_vietnamese_province)
-            # cleaned_df['country'] = 'Vietnam'
+            cleaned_df['city'] = cleaned_df['Địa điểm công việc'].apply(
+                self._extract_vietnamese_city)
+            cleaned_df['state'] = cleaned_df['Địa điểm công việc'].apply(
+                self._extract_vietnamese_province)
+            cleaned_df['country'] = 'Vietnam'
 
         # Clean salary
         if 'Mức lương' in cleaned_df.columns:
@@ -389,6 +389,11 @@ class DataCleaner:
         if 'học vấn' in cleaned_df.columns:
             cleaned_df['education'] = cleaned_df['học vấn'].apply(
                 self.clean_text)
+
+        # Add missing columns
+        cleaned_df['rating'] = None
+        cleaned_df['company_size'] = None
+        cleaned_df['benefits'] = ''
 
         logger.info(f"Cleaned CareerLink data: {len(cleaned_df)} rows")
         return cleaned_df
@@ -443,11 +448,11 @@ class DataCleaner:
         if 'địa điểm' in cleaned_df.columns:
             cleaned_df['location_clean'] = cleaned_df['địa điểm'].apply(
                 self.clean_text)
-            # cleaned_df['city'] = cleaned_df['địa điểm'].apply(
-            #     self._extract_vietnamese_city)
-            # cleaned_df['state'] = cleaned_df['địa điểm'].apply(
-            #     self._extract_vietnamese_province)
-            # cleaned_df['country'] = 'Vietnam'
+            cleaned_df['city'] = cleaned_df['địa điểm'].apply(
+                self._extract_vietnamese_city)
+            cleaned_df['state'] = cleaned_df['địa điểm'].apply(
+                self._extract_vietnamese_province)
+            cleaned_df['country'] = 'Vietnam'
 
         # Clean salary
         if 'mức lương' in cleaned_df.columns:
@@ -504,6 +509,10 @@ class DataCleaner:
             cleaned_df['company_size'] = cleaned_df['quy mô công ty'].apply(
                 self.clean_text)
 
+        # Add missing columns
+        cleaned_df['rating'] = None
+        cleaned_df['education'] = None
+        cleaned_df['benefits'] = ''
 
         logger.info(f"Cleaned Joboko data: {len(cleaned_df)} rows")
         return cleaned_df
@@ -552,11 +561,11 @@ class DataCleaner:
         if 'địa điểm' in cleaned_df.columns:
             cleaned_df['location_clean'] = cleaned_df['địa điểm'].apply(
                 self.clean_text)
-            # cleaned_df['city'] = cleaned_df['địa điểm'].apply(
-            #     self._extract_vietnamese_city)
-            # cleaned_df['state'] = cleaned_df['địa điểm'].apply(
-            #     self._extract_vietnamese_province)
-            # cleaned_df['country'] = 'Vietnam'
+            cleaned_df['city'] = cleaned_df['địa điểm'].apply(
+                self._extract_vietnamese_city)
+            cleaned_df['state'] = cleaned_df['địa điểm'].apply(
+                self._extract_vietnamese_province)
+            cleaned_df['country'] = 'Vietnam'
 
         # Clean salary
         if 'mức lương' in cleaned_df.columns:
@@ -593,8 +602,23 @@ class DataCleaner:
             cleaned_df['experience'] = None
             cleaned_df['experience_text'] = None
 
+        # Clean benefits
+        if 'quyền lợi' in cleaned_df.columns:
+            cleaned_df['benefits'] = cleaned_df['quyền lợi'].apply(
+                self.clean_text)
+        else:
+            cleaned_df['benefits'] = ''
 
+        # Clean work time
+        if 'thời gian làm việc' in cleaned_df.columns:
+            cleaned_df['work_time'] = cleaned_df['thời gian làm việc'].apply(
+                self.clean_text)
+        else:
+            cleaned_df['work_time'] = None
 
+        # Add missing columns
+        cleaned_df['rating'] = None
+        cleaned_df['company_size'] = None
         cleaned_df['industry'] = None
         cleaned_df['job_type'] = None
         cleaned_df['job_level'] = None
@@ -940,6 +964,16 @@ class DataCleaner:
         """
         standardized_data = {}
 
+        # # Define standard columns
+        # standard_columns = [
+        #     'source', 'job_title_clean', 'company_name', 'location_clean',
+        #     'city', 'state', 'country', 'salary_min', 'salary_max',
+        #     'industry', 'job_description', 'rating', 'company_size',
+        #     'skills', 'experience', 'job_type', 'job_level', 'education',
+        #     'benefits', 'work_time',
+        #     # Preserve raw text fields for downstream export/DB
+        #     'salary_text', 'experience_text'
+        # ]
         # Define standard columns
         standard_columns = [
             'source', 'job_title_clean', 'company_name', 'location_clean',
@@ -1062,17 +1096,79 @@ class DataCleaner:
             'compatibility': compatibility
         }
 
-    def perform_data_matching(self, data: Dict[str, pd.DataFrame]) -> Dict[str, Any]:
+    def _map_raw_columns_for_matching(self, data: Dict[str, pd.DataFrame]) -> Dict[str, pd.DataFrame]:
+        """
+        Map raw data columns to standard columns for matching.
+        
+        Args:
+            data: Dictionary of raw DataFrames
+            
+        Returns:
+            Dict[str, pd.DataFrame]: DataFrames with mapped columns
+        """
+        mapped_data = {}
+        
+        for source, df in data.items():
+            if df.empty:
+                mapped_data[source] = df
+                continue
+                
+            df_mapped = df.copy()
+            
+            # Map columns based on source
+            column_mappings = {
+                'careerlink': {
+                    'job_title_clean': 'tên công việc',
+                    'company_name': 'tên công ty',
+                    'location_clean': 'Địa điểm công việc'
+                },
+                'joboko': {
+                    'job_title_clean': ['ten_cong_viec', 'tên công việc'],
+                    'company_name': ['ten_cong_ty', 'tên công ty'],
+                    'location_clean': ['dia_diem_lam_viec', 'địa điểm', 'Địa điểm công việc']
+                },
+                'topcv': {
+                    'job_title_clean': 'tên công việc',
+                    'company_name': ['công ty', 'tên công ty'],
+                    'location_clean': ['địa điểm làm việc', 'địa điểm', 'Địa điểm công việc']
+                }
+            }
+            
+            # Get mapping for this source
+            source_mapping = column_mappings.get(source, {})
+            
+            # Map columns
+            for target_col, source_cols in source_mapping.items():
+                if isinstance(source_cols, list):
+                    # Try each possible source column
+                    for src_col in source_cols:
+                        if src_col in df_mapped.columns:
+                            df_mapped[target_col] = df_mapped[src_col]
+                            break
+                else:
+                    if source_cols in df_mapped.columns:
+                        df_mapped[target_col] = df_mapped[source_cols]
+            
+            mapped_data[source] = df_mapped
+        
+        return mapped_data
+
+    def perform_data_matching(self, data: Dict[str, pd.DataFrame], is_raw_data: bool = False) -> Dict[str, Any]:
         """
         Perform data matching and entity resolution.
 
         Args:
-            data: Dictionary of cleaned DataFrames
+            data: Dictionary of DataFrames (cleaned or raw)
+            is_raw_data: If True, map raw columns to standard columns first
 
         Returns:
             Dict[str, Any]: Data matching results
         """
         logger.info("Performing data matching...")
+
+        # Map raw columns if needed
+        if is_raw_data:
+            data = self._map_raw_columns_for_matching(data)
 
         # Combine all data for matching analysis
         all_data = []
@@ -1104,16 +1200,61 @@ class DataCleaner:
         else:
             combined_df = pd.DataFrame()
 
-        # Perform matching analysis
-        matching_report = self.data_matcher.generate_matching_report(
-            combined_df)
+        # Check if required columns exist, if not use available columns
+        required_cols = ['job_title_clean', 'company_name', 'location_clean']
+        available_cols = [col for col in required_cols if col in combined_df.columns]
+        
+        if not available_cols:
+            # Fallback: use any columns that might work
+            fallback_cols = []
+            for col in combined_df.columns:
+                if any(keyword in col.lower() for keyword in ['title', 'job', 'công việc', 'ten']):
+                    fallback_cols.append(col)
+                    break
+            for col in combined_df.columns:
+                if any(keyword in col.lower() for keyword in ['company', 'cong ty', 'công ty']):
+                    fallback_cols.append(col)
+                    break
+            for col in combined_df.columns:
+                if any(keyword in col.lower() for keyword in ['location', 'dia diem', 'địa điểm']):
+                    fallback_cols.append(col)
+                    break
+            
+            if fallback_cols:
+                available_cols = fallback_cols
 
-        # Find duplicates and similar records
-        df_with_duplicates = self.data_matcher.find_duplicates(combined_df)
-        similar_groups = self.data_matcher.find_similar_records(combined_df)
+        # Create a temporary DataMatcher with adjusted fields
+        if available_cols != required_cols:
+            # Temporarily adjust DataMatcher fields
+            original_fields = self.data_matcher.fuzzy_match_fields.copy()
+            self.data_matcher.fuzzy_match_fields = available_cols if available_cols else ['source']
+            
+            try:
+                # Perform matching analysis with adjusted fields
+                matching_report = self.data_matcher.generate_matching_report(
+                    combined_df)
+                
+                # Find duplicates with available columns
+                df_with_duplicates = self.data_matcher.find_duplicates(
+                    combined_df, key_fields=available_cols + ['source'])
+                similar_groups = self.data_matcher.find_similar_records(combined_df)
+                
+                # Entity resolution (will use available columns)
+                entity_resolution = self.data_matcher.resolve_entities(combined_df)
+            finally:
+                # Restore original fields
+                self.data_matcher.fuzzy_match_fields = original_fields
+        else:
+            # Perform matching analysis
+            matching_report = self.data_matcher.generate_matching_report(
+                combined_df)
 
-        # Entity resolution
-        entity_resolution = self.data_matcher.resolve_entities(combined_df)
+            # Find duplicates and similar records
+            df_with_duplicates = self.data_matcher.find_duplicates(combined_df)
+            similar_groups = self.data_matcher.find_similar_records(combined_df)
+
+            # Entity resolution
+            entity_resolution = self.data_matcher.resolve_entities(combined_df)
 
         return {
             'matching_report': matching_report,

@@ -1,0 +1,40 @@
+{
+  "pipeline_info": {
+    "run_date": "2025-11-02T14:43:03.854796",
+    "pipeline_version": "3.1 (Load → Clean → Schema Matching → Data Matching → Export)",
+    "output_directory": "output/"
+  },
+  "data_sources": {
+    "careerlink": {
+      "raw_records": 807,
+      "processed_records": 807
+    },
+    "joboko": {
+      "raw_records": 2624,
+      "processed_records": 2624
+    },
+    "topcv": {
+      "raw_records": 3210,
+      "processed_records": 3210
+    }
+  },
+  "statistics": {
+    "total_raw_records": 6641,
+    "total_processed_records": 6641,
+    "unique_companies": 3074,
+    "unique_locations": 0
+  },
+  "files_generated": {
+    "export_file": "output\\export-20251102_144303.json",
+    "matching_report": "output\\matching_report_20251102_144303.json"
+  },
+  "schema_matching": {
+    "overall_compatibility": 0.0,
+    "standard_fields_count": 12
+  },
+  "data_matching": {
+    "duplicate_count": 164,
+    "duplicate_rate": 2.469507604276464,
+    "similar_groups": 56
+  }
+}
